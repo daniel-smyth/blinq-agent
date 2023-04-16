@@ -21,9 +21,9 @@ export const main = async () => {
 
   const questions = [
     "Does Blinq have SOC2? When did they get it?",
-    "What's Blinq's privacy policy?",
-    "How do I get more Blinq cards?",
     "What plans does Blinq have?",
+    "How do I get more Blinq cards?",
+    "What's Blinq's privacy policy?",
   ];
 
   const answers = await Promise.all(

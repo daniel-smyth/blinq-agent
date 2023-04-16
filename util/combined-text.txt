@@ -4798,31 +4798,414 @@ Pricing
 Blog
 Log In
 Create Your Card
-Home>Blog>Announcements
-ANNOUNCEMENTS
-Blinq has achieved SOC 2 Type II Certification
+Home>Blog>Realtors and Real Estate
+REALTORS AND REAL ESTATE
+Linkedin for Realtors: What to share [with examples]
 Originally Published:
-April 11, 2023
+December 14, 2022
   •  
-2 min read
+5 min read
 Last Updated:
-Apr 14, 2023
-Blinq has achieved SOC 2 Type II Certification
-By  Travis James
-Growth Operations Manager
+Jan 12, 2023
+Linkedin for Realtors: What to share [with examples]
+By  Tom Gil
+Real estate copywriter
 
-Blinq has achieved SOC 2 Type II Certification
-MELBOURNE, 14 APRIL 2023 —We are delighted to announce that Blinq has successfully achieved SOC 2 Type II certification. Continuing to demonstrate our commitment to security and the protection of our customers’ data.
+Linkedin for Realtors: What to share [with examples]
+Social media is a powerful tool in the arsenal of any realtor. But what social media platform is the best? Is LinkedIn optimal for realtors? And what content to share? I answer these questions, show examples, and break down tips for content creation. Let’s dive in.
 
-SOC 2 Type II certification requires not only that we have security controls in place to protect our customer's data, but that we also have these controls tested by an independent auditor.
+What is the best social media for Realtors?
+If you asked me 18 months ago, I would’ve said LinkedIn and Facebook (who goes by Meta now). Today it’s definitely, LinkedIn, and maybe Meta.
 
-We started this process in September 2022 and with support from all areas of the business were able to implement a security management system that was SOC 2 Type II compliant within 6 months.
+So, what changed? 
 
-The attainment of SOC 2 Type II is a testament to the tireless efforts and involvement of everyone at Blinq. We continually strive to be the best-in-class digital business card provider on the market. Our commitment to complying with all applicable privacy laws underscores our dedication to delivering exceptional products and services.
+Well, for starters, today iPhone users can block ad targeting. Android is said to follow. And given ad revenue is Meta’s main business model, evidenced by Zuckerberg’s famous smirk answer to a Senator, it ends up hurting the platform as a whole, as people get ads they hate, or which are irrelevant to them—making them abandon the platform.
 
+Furthermore, because Zuckerberg and his team poured billions of dollars and tons of hours into this new identity revolving around AR/VR with products like the Quest Headset, Metaverse, and RayBan video Glasses, its older products (Facebook) suffer neglect amidst their identity crisis.
+
+Yes, groups on Facebook are still powerful if you’re able to engage, comment, help, and give value for free as a group member, before you sell homes without building trust and rapport.
+
+So, why has LinkedIn stayed on top for Realtors?
+
+To be honest, I don’t know that it has. I’ve looked for properties recently in Bangkok, Thailand, and Tbilisi, Georgia—and Facebook was better when looking to rent. But when I looked for a reputable agent in order to network, learn, and buy a home, LinkedIn prevailed. Additionally:
+
+LinkedIn is a much more organic platform, and Microsoft, LinkedIn’s owner, focuses on creators with new features like creator mode and “links in bio”. Furthermore, people genuinely show up on LinkedIn to either help (create content) or grow (learn from content). They reshare, engage, and comment more purposefully—and your feed mostly shows what your network shares and likes—rather than what some algorithm thought you’d prefer, like on Facebook. This has more oomph to it than it sounds—because trust is key in sales, and on LinkedIn.
 ‍
 
-To download a copy of our SOC 2 Type II report, please view our trust report here.
+Secondly, and more importantly, it’s where your actual audience cohort. LinkedIn is a professional network, where people reading your content/ads are in the right headspace to buy a high-ticket product (think: house in the US with a median price of $420k). Additionally, in terms of demographics—LinkedIn is vastly superior. Its user's age, median income, and professional careers mean they’re much more likely to be in the market for a new house, relocating due to a job hop, or buying a new/second home, with the ability to afford it.
+The catch? Quality comes with a price. 
+
+How much does LinkedIn Premium cost?
+LinkedIn premium’s cheapest tier starts at $30 a month. Sure, you can use LinkedIn for free, but as a professional agent, you’d like to have the ability to see data, analytics, and send InMails.
+
+Examples of great posts by Realtors
+Bill Gassett
+Bill Gassett is a colleague and friend. Like me, he combines real estate and marketing. But unlike me, Bill attacks it from the other side—your side—the realtor’s side. 
+
+Bill’s profile is a great example of a strong banner and profile picture. Banners are important and provide great real estate often neglected by users.
+
+
+And here’s how he instills confidence and trust through multiple endorsements.
+
+
+Lastly, here’s an example of a real post he shared, about a trending topic. A blog article he wrote (which’s part of his content strategy, leading from social to his blog).
+
+
+Diana Kadan: sharing a client win
+If you’ve had a big win, you can build client confidence and celebrate your achievement with a LinkedIn post. Diana’s post provides a great example of how you post about a purchase without having to name the clients.
+
+
+Dustin Brohm: giving advice through videos
+If done right, video can be an exceptionally compelling medium. Dustin Brohm posts videos on his LinkedIn to build trust and spread his influence, like this one about how to buy a house when you’re self-employed.
+
+
+Frank Audano: local market data
+Anyone can power up their laptop, check CNN and see reports on nationwide housing trends. But up-to-date local data? Well, that’s harder to come by. Frank Audano’s post makes his LinkedIn a source of local data for buyers in Kansas, sharing insights from a recent report.
+
+
+Could using spreadsheets help you Excel? Check Out Our Free Excel Templates for Realtors.
+
+What to share on LinkedIn
+Now that we’ve seen some samples, what should you share on LinkedIn? 
+
+Talk about your:
+
+Success - to build authority. That big house sale. Your banking and escrow connections. Your articles, podcasts, and interviews. It all contributes to your personal brand.
+Failures - to be authentic and humanize your content. Sharing defeats builds a different kind of connection. Stories like how that one time you lost that deal at the last minute because the buyer's bank didn’t approve his mortgage.
+Personal experience - like how you know your area, master your zip code, and your specialty in Type A/B class properties, or relocating tech workers.
+Your housing market knowledge - to show you’re intelligent, understand the bigger picture, and how the CRE, residential, and hospitality markets are connected. In times of doubt, fear, and uncertainty, talk about economical cycles, the prime rate, and inflation.
+Also, lots of realtors like to share their Blinq digital business card on LinkedIn. These digital cards let your LinkedIn followers save your contact details with a click, so you’ll be on speed dial when they need to sell their home! Learn more about the digital business card realtors love.
+
+Tips on creating content for Linkedin
+You could share videos, but as you’ve seen on Bill’s post, he used a picture, because single-image-ads work best on LinkedIn. Unlike TikTok or Instagram, where video is more native, people react more positively to pictures on LinkedIn.
+
+In terms of how to approach content creation, it’s best you use formulas of what works. Test and pivot according to your audience’s feedback. You can create Polls (a LinkedIn feature) and ask what topics they like most, and then prepare templates for yourself as I’ve done on Notion:
+
+
+Now that you know what social media is best for realtors (depending on your offering), seen examples of the content shared there, and advice on how to do it yourself, you’re ready to create more impact as a realtor!
+
+Getting your marketing ducks in a row? Improve your appeal with a free digital business card.
+
+Share
+Ready when you are
+Blinq is trusted by thousands of users to share their professional identity every day. Now it’s your turn.
+
+Create Your Card
+
+
+app store
+google play store
+
+Product
+Individuals
+Businesses & Teams
+NFC Business Cards
+Pricing
+Solutions
+Digital Business Cards
+Email Signature
+Resources
+Help
+Blog
+Contact
+Work at Blinq
+Privacy Policy
+Terms & Conditions
+Terms of Use
+Press Kit
+Responsible Disclosure Program
+Security
+Access
+Log In
+Sign Up Free
+© 2017-2023 Blinq Technologies Pty Ltd. All Rights Reserved.
+
+
+
+
+
+Digital Business Cards
+For Businesses & Teams
+NFC Business Cards
+Pricing
+Blog
+Log In
+Create Your Card
+Home>Blog>Networking
+NETWORKING
+Top 8 Business Networking Tools to Supercharge Your Growth
+Originally Published:
+December 16, 2022
+  •  
+10 min read
+Last Updated:
+Jan 19, 2023
+Top 8 Business Networking Tools to Supercharge Your Growth
+By  Juliet John
+Freelance writer
+
+Top 8 Business Networking Tools to Supercharge Your Growth
+What comes to your mind when you think about professional networking?
+
+Handshakes, smiles, and events with other professionals will most likely be your answer. And you’d be correct—up to a point. 
+
+While many people cringe at the prospect of attending a networking event, for others it’s their go-to approach to socialize with other professionals in their field.
+
+But what if I told you, you could have your cake and eat it too? I’m talking about networking and meeting other professionals without leaving the comfort of your home. 
+
+It’s all possible with the right business networking tool. 
+
+But why’s networking so important? 
+
+For starters, networking gives you access to the people and opportunities essential for your growth. It’s an avenue to connect with like-minded individuals in your field, brainstorm ideas and learn. And for professionals, networking is a game-changer—the key to their success. 
+
+According to Zippia’s recent research, 79% of Americans say networking is crucial to their career progression. So it’s not uncommon to see many business professionals fast-track their careers just by having the right network.
+
+However, despite the many benefits of networking, only 48% of people actually stay in touch with their network.
+
+‍The question—Why does this happen?
+
+If you’re like most people that find it hard to keep networking and making new connections, it’s mainly because of these two reasons:
+
+You’re not using the right business networking tools
+You’re approaching business networking the wrong way 
+And that’s fine. Many people don’t know their way around professional networking. 
+
+Thanks to the internet, professional networking has moved beyond in-person interactions. With online platforms and tools, you can easily connect with people, build relationships and get mentorship to grow your business.
+
+In today’s guide, we’ll be covering top business networking tools along with five networking tips to help you make meaningful connections and build stronger professional relationships.
+
+Top 8 Business Networking Tools
+1. Blinq: Easily Share Your Professional Identity With Digital Business Cards
+Shows a Blinq Digital Business Card and the Blinq Digital Business Card QR Code Sharing Screen
+The first step in networking with people is exchanging your contact information. 
+
+Blinq offers an easy way to create a memorable first impression and share your identity when networking online and in person. With Blinq, you can create a quick digital business card containing all your professional details and share it with a single tap.
+
+Bling allows you to
+
+Impress new contacts with QR code-powered business cards.
+Personalize your business card.
+Securely share your card with anyone, anyhow you like. You decide.
+Customize your contacts with personal notes.
+Automatically save personal information from digital business cards.
+Create multiple profiles and cards.
+Promote your business on the go with customized company identity cards.
+Manage customer details and keep contact information up to date.
+If you’re connecting with people physically, they can get your information by scanning the QR code on your phone or apple watch without even having the Blinq app.
+
+When networking online, simply email, text, copy the link to your business card or share it any other way you prefer directly from the Blinq app.
+
+Show's the "share your card" scren from the Blinq Digital Business Card app
+Additionally, Blinq automatically adds the contact information from any digital business card you receive to your phone. It also allows you to attach personal notes to each contact. For example, you can record where and when you met, the things you talked about, and when next you’re scheduled to speak or meet.
+
+One great feature I love about Blinq is the extensive level of customization it gives.
+
+Shows a screenshot from the setup stage of the Blinq App on desktop
+Your card can contain any kind of professional information, from your company website address to social media details and even online payment links like PayPal and CashApp. 
+
+You can also 
+
+switch the Blinq brand colors to yours, 
+customize your QR code, 
+create an email signature, and 
+add virtual backgrounds to share your card over video chat.
+It’s simply amazing.
+
+Take a look at my card below. See how I replaced the Blinq brand color with mine and added my Calendy meeting link. Now, clients can book a meeting with me without even visiting my website.
+
+
+And that’s not even all. 
+
+Blinq lets you create multiple profiles and cards so you can control the information you share and with whom when networking.
+
+My favorite part about using the Blinq card to network is that it eliminates the need to inform my network about changes to my personal information. That’s because every profile you create on Blinq is live. So, the tool automatically keeps your details up to date.
+
+If you’re a company, Blinq business makes it easy to manage your organization’s professional identity. With up-to-date digital business cards customized to your branding, your team can network and promote your company on the go.
+
+Blinq also integrates with CRM platforms like Hubspot, Salesforce and Azure AD. This means you can effortlessly manage your contacts and keep customer information up to date and ready for follow-up, all from a single dashboard.
+
+So what are you waiting for?
+
+Create your free digital business card today, and start networking.
+
+2. Hunter.io: Find Emails of People You Want to Network With
+
+Whether you’re meeting people online or at physical networking events, sending an email is a surefire way to start a conversation, connect, and keep a relationship going. 
+
+To find the email addresses of people you want to network with, use Hunter.io, a successful email-finding tool trusted by millions of professionals worldwide. 
+
+Hunter helps you find emails of specific persons within organizations. For instance, as a freelance B2B content writer and marketer, I’m always looking to connect with and pitch my services to B2B companies. 
+
+So, with Hunter, I effortlessly find email addresses of decision makers like content marketing leads, SEO managers and marketing managers within companies I desire to work with. From there, I pitch them, make enquiries or connect with them. 
+
+And this works for every other kind of business. 
+
+Use Hunter’s domain search tool to find all the email addresses associated with a specific company. Then, filter the result you get by department, type or even company data.
+
+Shows a screenshot for somone searching a company domain into the Hunter IO tool to find email addresses. 
+And if you know the particular person you want to connect with within an organization, then use the finder tool to fetch their email in seconds. But that’s not all the finder tool does. It also tells you if the email address you’re searching for is verified and where it was found.
+
+Shows a screenshot of Hunter IO in use to find someone's email address. The tool has guessed an email address with 97% certainty.
+Hunter has a chrome extension you can install on your browser to quickly find emails anywhere on the web when you visit a website. If you find email addresses elsewhere, quickly pop them into Hunter’s email verifier tool to confirm they’re correct and valid.
+
+Andrew Gonzales, the Co-Founder and President at Business Loans, says his company has had great success using Hunter to find emails for networking with decision-makers and high-level executives from various companies.
+
+“Hunter takes the guesswork out of cold communication and replaces it with valuable data to populate our CRM database,” he says.
+
+3. Lunchclub: Make Professional Connections, Powered by AI
+
+Away from in-person networking events, online platforms have proved very helpful for bringing people together to connect and build relationships. 
+
+One such platform is Lunchclub, an AI super-connector that facilitates virtual calls between business professionals with similar interests.
+
+Here’s how it works. 
+
+Let’s say you’re a business owner or professional looking to grow your network. When you sign up for Lunclub for free and provide basic information about yourself, your goals and your interests, the AI platform will make personalized introductions and connect you with other professionals who match your interest.
+
+"When I was actively growing my business network and looking to meet investors, I signed up for Lunchclub. I indicated that I was interested in speaking primarily with investors, and the platform would match me with investors looking to speak primarily with early-stage business owners. I met a number of business professionals with extremely impressive accomplishments, many of whom I'm still in contact with today.”
+
+— Calloway Cook, President at Illuminate Labs.
+
+Every day, the platform will recommend about 10 topics and people you could be interested in following and connecting with. They are called “daily picks.”
+
+These recommendations are based on your goals and interests. If you’re interested in connecting, Lunchclub will introduce you. Then you can start chatting away and arranging calls with users. 
+
+To turn the heat up, put meeting people on autopilot by blocking time on your calendar. Then, Lunchclub will automatically schedule meetings for you with new people that match your profile. Just don’t forget to check the box at the bottom left corner so it can match you with people in your area.
+
+Shows a screenshot of lunchclub's calendar feature
+For a free platform, Lunchclub is more time efficient and effective for networking than meeting someone in person for coffee. 
+
+Alex Birkett, co-founder at Ominiscient Digital, a content agency, says the connections he has made from Lunchclub have resulted in several interesting conversations, one of which became a client.
+
+4. Slack: Communicate, Collaborate and Network in One Place
+
+In recent years, Slack has evolved from an intra-company communication tool into a powerful networking platform. Professionals across different fields use private, invite-only slack communities to network, share job leads, and exchange career advice. 
+
+For freelancers and other service providers, gaining access to your industry’s slack community can put you in front of hiring managers and potential clients. But that’s not all. Slack forums also present an opportunity for you to connect with industry peers, share knowledge, and learn from experts.
+
+It, however, starts with finding the right community.
+
+For instance, Superpath is one of the leading slack communities in the content marketing space. It’s a supportive group of marketers, SEOs, content managers, company founders and freelancers looking to network with potential clients and hires and learn from each other. 
+
+With over 11,500 members, the Superpath community is like an insider club with a constant flow of collaboration opportunities, gigs and meaningful conversations. 
+
+Take a look at the screenshots below.
+
+A screenshot from a Slack community where a man called Sea n has put out. request for agency owners and project managers to share tips on managing multiple clients at scale.
+A man called Jason advertising his content writing services in a Slack channel.
+A screenshot of a man called Reueben asking if anyone has built a successful blog without using paid SEO Tools
+By actively networking on slack communities, you can make connections that open career doors and take your business to the next level. For example, B2B SaaS writer Sanketee Kher says she has found several clients on Superpath by answering questions and sharing her portfolio. 
+
+Other notable slack communities include Demand curve and Product Led Growth. In fact, almost every industry has a slack community. Find one that’s relevant and start making connections that’ll move your business forward.
+
+To find slack communities in your industry, google “slack community” + your career field. Or ask people in your network about relevant groups they belong to.
+
+5. Twitter Communities: Join Conversations That Create Opportunities and Improve Visibility
+
+If you’re already on Twitter, joining a community can help grow your network on the platform.
+
+Twitter communities are similar to Slack and Facebook groups. They’re dedicated forums where like-minded people meet to forge new connections and discuss issues that interest them. 
+
+But more than chatting about fun things, Twitter communities present opportunities for collaborating with industry peers and experts while increasing brand visibility. 
+
+By actively interacting with community members, you can build genuine relationships, stand out as an expert, and land new clients.
+
+For instance, I landed my first content collaboration opportunity by connecting with a freelancer I met on #FreelanceChat, a Twitter community for freelancers. 
+
+Several other communities exist within every industry. Find the right ones, engage in meaningful conversations, and make connections that can positively impact your business.
+
+Even though Twitter communities can connect you with potential clients or customers, refrain from using them as an avenue to advertise yourself 24/7. Instead, concentrate on being helpful and adding value to the community. This way, it'll be easier to build trust and credibility, which will result in business connections, referrals and growth.
+
+6. Newsletters: Discover Growth Opportunities, Stay Updated, and Gain New Perspectives.
+
+Although newsletters sometimes get a bad rep, they’re an excellent medium for discovering business opportunities and keeping a pulse on your industry. 
+
+Within every industry and niche, there’s a plethora of newsletters. While some tend to be very promotional, others focus on sharing ideas, growth/job opportunities and keeping their subscribers updated with the latest industry news and trends.
+
+John Bonini’s Some Good Content is one awesome newsletter in the marketing industry. The practical frameworks, expert interviews and job opportunities he shares help subscribers sharpen their skills, discover industry experts to network with and grow their businesses. For example, Lily Ugbaja, the Founder of marketingcyborg.com, says she recently scored a freelance client by responding to a job posting in the newsletter. 
+
+Also, Kaitlyn Arford, freelance writer and journalist, runs a newsletter where she shares weekly job opportunities for all things freelance.
+
+One way to discover notable newsletters in your industry is to ask other professionals in your network. Finding the right newsletter may take some leg work. But once you do, you’ll benefit from the rich knowledge and opportunities they share.
+
+7. Buzz Sumo: Get the Insight You Need to Create Great Content and Grow Your Network
+
+After making connections online, the natural way to build professional relationships, keep conversations going and earn trust is by creating and sharing valuable content.
+
+And Buzzsumo is the right content marketing tool to help you do that.
+
+Buzzsumo takes the stress away from content creation by giving you insights into the type of content your network finds useful. 
+
+﻿Its content discovery feature helps you find common knowledge gaps you can close with helpful, in-demand content.
+
+Shows a Buzzsumo word cloud of the topics surrounding "business networking"
+This way, you can create content that answers important questions and form opinions that’ll make your network perceive you as a valuable, relevant person. And the outcome of such perception is increased connections, credibility and business growth. 
+
+Quick tip: Sharing your knowledge and expertise with your network enhances your reputation and establishes you as an authority in your field.
+
+8. Clay: Manage Your Network and Stay in Touch With the People That Matter
+
+What’s more important than making new connections in business? 
+
+You guessed right. 
+
+It’s maintaining relationships with the people in your network. 
+
+Successful business networking doesn’t end when you share your business card (or Blinq digital business card for that matter!) You need to stay in touch and check in regularly to increase your chance of generating referrals.
+
+Clay, a new relationship-building software, works like a personal CRM to allow you keep in touch with your network regardless of the channel or platform you’re connected on.
+
+Once you sign up with Clay and connect your Gmail, social networking platforms, contact and calendar, it’ll build a collection of your people so you can find all their details in one place. 
+
+With Clay, you can say goodbye to entering contact details manually or switching between apps to stay updated about the people you’re connected to. Because Clay automatically populates all their information, including work history, photos, location etc and keeps them updated over time. 
+
+But that’s not all. 
+
+Clay lets you know when something significant happens to someone in your network. From job changes to special recognitions in industry publications to location changes and birthdays, you’ll get all the updates so you can celebrate your people in time.
+
+The best part about using the networking tool is that it lets you search for your people the way you remember them. You can search by event, organization, where you met or what you talked about, and Clay will find the right person or people based on their profile and your notes. 
+
+For example, when I search for SaaS on my Clay app, it brings up a list of my network who have SaaS in their profile and on my notes. It pulls this data from the different platforms we’re connected on.
+
+A screenshot from the app Clay
+From here, I can click on the particular person I want to reach out to, and Clay will show me all their personal information available on the web.
+
+With Clay, you can prioritize your network into groups, stay connected and show that you care without breaking a sweat.
+
+Now that we know the tools you need to make professional connections, and maintain your relationships, let’s look at the best practices for successful business networking.
+
+Five Tips for Successful Business Networking
+Professional networking exposes you to the collaborations, partnerships and mentoring opportunities necessary to grow your business or freelance career. 
+
+By implementing these best practices, you’ll network efficiently and make better connections.
+
+1. Always Give First
+
+Lily Ugbaja, founder at Marketingcyborg
+“A lot of people approach networking from a what can I get from it aspect, and that’s a shame because networking is about other people. The best deals, referrals and opportunities will come from just giving to people when you don’t need them yet.”
+Networking only at the time you’re desperate for help is the wrong way to network. 
+
+The truth is networking is both a skill and a mindset, with its most important aspect being generosity. By generosity, I mean committing your time, effort and resources to add value to people without any guarantee of immediate reward. 
+
+When you focus on giving to others, you’ll be able to hold meaningful conversations, build and nurture genuine relationships that’ll help move your business and career forward. 
+
+2. Be Proactive 
+Networking is more than joining slack communities, connecting on Lunchclub or sharing your Blinq digital business card. 
+
+Instead, it’s about actively seeking out opportunities to connect with people, learn from them and build relationships. This could involve sending cold emails to kickstart a conversation, joining conversations on socials, sending DMs to share a helpful resource you found or attending virtual/ in-person industry events and conferences.
+
+3. Be Genuine and Authentic
+People want to connect with real people. So whether you’re networking online or in person, be yourself. Be honest about your goals, your offerings and accomplishments. But try to avoid bragging! 
+
+4. Always Follow Up
+In networking, the profit is in the follow-up. The connections you make while networking are only effective if you follow them up and keep in touch. Following up keeps you at the top of your contact’s mind when opportunities that you’re an excellent fit for show up. Things like sending personalized emails or texts, reaching out regularly on socials, and meeting up for coffee or lunch are great ways to follow up and keep your relationship going.
+
+5. Be consistent
+Networking is a long-term play that requires ongoing effort. If you’re networking on online platforms, commit to spending at least an hour daily connecting, engaging and conversing with people. If you prefer to network at events and conferences, then resolve to attend more frequently. 
+
+Ready to Grow Your Business With Professional Networking?
+Then, never pass up an opportunity to network by getting your Blinq digital business card today.
 
 ‍
 
@@ -4831,6 +5214,279 @@ Share
 
 
 
+Ready when you are
+Blinq is trusted by thousands of users to share their professional identity every day. Now it’s your turn.
+
+Create Your Card
+
+
+app store
+google play store
+
+Product
+Individuals
+Businesses & Teams
+NFC Business Cards
+Pricing
+Solutions
+Digital Business Cards
+Email Signature
+Resources
+Help
+Blog
+Contact
+Work at Blinq
+Privacy Policy
+Terms & Conditions
+Terms of Use
+Press Kit
+Responsible Disclosure Program
+Security
+Access
+Log In
+Sign Up Free
+© 2017-2023 Blinq Technologies Pty Ltd. All Rights Reserved.
+
+
+
+
+
+Digital Business Cards
+For Businesses & Teams
+NFC Business Cards
+Pricing
+Blog
+Log In
+Create Your Card
+Home>Blog>Realtors and Real Estate
+REALTORS AND REAL ESTATE
+Personal Branding for Real Estate Agents — Here’s How
+Originally Published:
+December 19, 2022
+  •  
+5 min read
+Last Updated:
+Jan 5, 2023
+Personal Branding for Real Estate Agents — Here’s How
+By  Tom Gil
+Real estate copywriter
+
+Personal Branding for Real Estate Agents — Here’s How
+Real estate agents can embrace personal branding by leveraging technology, social media and blogs to win the attention and trust of prospective clients. Some of the most successful real estate agents I know realize that self-branding is a key ingredient of entrepreneurship and an incredibly powerful marketing tactic. Let’s discuss why and how to build your brand as a realtor. 
+
+Why create a personal brand as a real estate agent?
+Before we dive into the how, most agents procrastinate on the why. Both beginner and veteran real estate agents know that being a part of a team, under the umbrella of a licensed brokerage, gives them an advantage. 
+
+Essentially, as a realtor, you’re a self-employed professional. An entrepreneur. A top player in the contact sport of selling homes. Working with a team increases your odds of winning. As the African proverb says: “if you want to go fast, go alone; if you want to go far, go together.”
+
+That said, you must develop your personal brand regardless of the brand identity your brokerage (team) adopted for itself—because if you ever decided to go solo, build your own team, or jump ship to a different, stronger team—your brand will go with you and even help make those changes happen. And I think you’ll agree with me saying your prospects have developed a relationship with you, not with your brokerage. They trust you, not them.
+
+How to brand yourself as a realtor?
+The most prevalent advice online on the topic is to leverage new technology. You’ll read blog advice on how to streamline back-end clutter and automate administrative tasks. Heck, 80% of the early-stage PropTech startups I work with think their tech advantage is their branding. I’ll tell you what I told them: It’s not. Sure, technology is shifting the way real estate is built, marketed, and sold. But branding starts earlier, and to find out what it means for you, you’ll have to dig deeper.
+
+Define who you are
+Before knowing who you talk, help, and sell to — I recommend self-reflection. A person’s brand is a manifestation of their values, principles, likes, and dislikes. So, who are you, really?
+
+You can start by asking yourself these questions:
+
+What are my values?
+What are my hobbies?
+Who am I as a person? 
+Am I an introvert, ambivert, or extrovert?
+Do I have experience in the tech industry? 
+How do I make the buying process easier for my clients?
+If the roles were reversed, why would I buy a home from me?
+Do I have specific experience that gives me an advantage over other realtors?
+The more specific your answers, the higher the likelihood your content and external communication will align with your target audience. And you want that, because at the highest levels of real estate, buyers choose agents based on their personality, vision, and values.
+
+Next, it's time for a mindset shift. The better you position yourself as the guide, helping the hero (your buyer/seller/tenant) reach their goal (sell/buy/lease/rent), the stronger your brand will be. 
+
+But who is your hero?
+
+Define your target audience
+If you don’t know what tone, style, principles, and values you stand for, that’s a branding obstacle; if your website's landing page, blog, and emails don't communicate it — that’s a messaging problem, and if they do but it doesn't resonate, that’s a targeting issue. And that’s why I insist you first do self-reflection, and only then set out to see who you target. 
+
+After that first step, audience elimination is simpler (“do I even want to work with this person?”). 
+
+But if it's your first plunge into this sort of thing — a good method will be finding patterns with those you helped most recently. For example:
+
+‍
+
+Where are they similar? 
+Did all of them face the same problem?
+Are they all within a certain age/income group?
+Maybe, coincidentally, your last 15 home sales involved helping tech employees to relocate. Maybe half of them work from home now. Or maybe you'll notice most of these tech workers are from the east coast — moving westward or leaving a specific state, which you can target. These things are worth noticing. 
+
+‍
+
+After starting to understand your ICP (ideal customer persona), find more patterns. That'll help you cater your content around their pains; adjust your outreach filter, and even your ads.
+
+And of course, realtors who brand themselves like to share their Blinq digital business card on LinkedIn. These digital cards let your LinkedIn followers save your contact details with a click, so you’ll be on speed dial when they need to sell their home! Learn more about the digital business card realtors love.
+
+This shows a Realtor (Robert Smith's) Digital Business card with his contact information on it.
+An example of a realtor’s Blinq digital business card.
+Make Blinq digital business cards the new home for your personal brand. Get your free digital business card now.
+
+In this blog, we covered why you should pursue building your own personal brand as a real estate agent and how to do it using self-reflection plus audience research. Now you’re ready to stand out!
+
+Ready to take your new-found personal brand to LinkedIn? Check out our guide on LinkedIn for Realtors.
+
+Share
+Ready when you are
+Blinq is trusted by thousands of users to share their professional identity every day. Now it’s your turn.
+
+Create Your Card
+
+
+app store
+google play store
+
+Product
+Individuals
+Businesses & Teams
+NFC Business Cards
+Pricing
+Solutions
+Digital Business Cards
+Email Signature
+Resources
+Help
+Blog
+Contact
+Work at Blinq
+Privacy Policy
+Terms & Conditions
+Terms of Use
+Press Kit
+Responsible Disclosure Program
+Security
+Access
+Log In
+Sign Up Free
+© 2017-2023 Blinq Technologies Pty Ltd. All Rights Reserved.
+
+
+
+
+
+Digital Business Cards
+For Businesses & Teams
+NFC Business Cards
+Pricing
+Blog
+Log In
+Create Your Card
+Home>Blog>QR Code Business Cards
+QR CODE BUSINESS CARDS
+Is a QR Code on a Business Card a Good Idea or a Bad Idea?
+Originally Published:
+February 1, 2023
+  •  
+5 min read
+Last Updated:
+Feb 1, 2023
+Is a QR Code on a Business Card a Good Idea or a Bad Idea?
+By  Andrew Childress
+Freelance writer
+Is a QR Code on a Business Card a Good Idea or a Bad Idea?
+If you found this post, I’ll bet that you’re working on your business card. You might even be wondering: is putting a QR code on my business card a good or bad idea?
+
+Contact details like name and phone number are a must, sure. But what about more innovative features like a QR code? Is it something that’s a must-include for 2023, or has the QR code’s moment passed?
+
+Make no mistake: the pandemic sparked renewed interest in the QR code. In a contactless world, the QR code’s role as a touch-free launch point was essential. 
+
+But even in a post-pandemic world, QR codes serve as a valuable “next step” for the recipient. Let’s learn more about why you should (and shouldn’t!) include a QR code. Plus, you’ll learn how to create them and add them to a business card, all in this post.
+
+Why Your Business Card Should Include a QR Code
+I hate to be the bearer of bad news, but every business card has an expiration date on it.
+
+Think about it: as soon as your employer, email address, or phone number changes, it’s out of date. That means that you’re constantly handing out a card that will soon include inaccurate and outdated contact info.
+
+The solution? Think of a QR code as the tool that ensures your business card never expires. That’s because you can use it to send a reader to an always-up-to-date set of contact details. We call this a digital business card, and it’s the perfect launch point to include on your business card.
+
+
+The QR code serves as the link to your future-proofed digital business card, where your up-to-date contact details live. You can view Robert Smith’s card here.
+‍
+
+The idea here is simple: your physical business card is easy to pass out, but your digital business card gives you flexibility long after you exchange details. The QR code on the physical business card becomes your bridge to the digital business card.
+
+Our recommended approach is to set your QR code up to link to a digital business card. Think of this as a mini-website with all of your contact details. It’s easy to adjust the details on your digital business card with a tool like Blinq. That means that every printed business card is now essentially future-proofed.
+
+Not a programmer? Worried about building a digital business card or printing your QR code accurately? We’ve got you covered. Read on to learn more about an easy-to-use tool to create and maintain your digital business card.
+
+When You Shouldn’t Use A QR Code
+Of course, a QR code isn’t right for every business card. It’s great to adopt new technologies, but don’t let a QR code be the tail that wags the dog. 
+
+Your QR should have a specific purpose and use case in mind. And that means thinking about what your user will see when they open the address tied to the QR code. 
+
+Here are a couple of occasions where it might be best to avoid using a QR code:
+
+If you don’t plan to keep your digital business card up-to-date, then the QR code can cause more harm than good. Sending the recipient of the card to an out-of-date or defunct set of details certainly defeats the purpose.
+Finally, if your customer base is more traditional and less tech-savvy, putting a QR code on your business card may take up space that could be better saved for your branding.
+But above all: don’t avoid adding a QR code because you think it’s difficult or time-consuming. In fact, you can do this for free with no coding or design skills needed. Keep going to learn how to create a QR code of your own. Plus, you’ll learn about a type of card that sets the standard for the future of connection.
+
+The Best Way to Create a QR Code For Your Business: Blinq
+If you’ve decided to add a QR code to your business card, you might be faced with the all-important question: how?
+
+Remember that the best place to send someone who scans your QR code is to a digital business card. Essentially, this is a micro website that includes all of your up-to-date contact details. But you don’t have to be a programmer to build your digital business card.
+
+With Blinq’s digital business card builder, you can drag and drop your way to a digital business card. This gives you a QR code that you can print and share with anyone. And that QR code will take a viewer to your digital business card.
+
+
+Blinq’s digital business card builder enables easy drag-and-drop creation of your digital business card.
+‍
+
+Your contact details are totally customizable. Add any detail as a new field, including social media links, chat app info, and even payment links. Because these are clickable, the digital business card far outperforms its real-world counterpart.
+
+‍
+
+
+The digital business card builder creates a QR code that links to my always-up-to-date contact details.
+‍
+
+Best of all: it’s free to get started with Blinq. That means you can generate a connected QR code and digital business card at no cost.
+
+One other powerful feature: Blinq also has a companion app for mobile devices. Think of it as your one-stop digital Rolodex. The app collects and stores digital business cards as a one-stop shop for your network. Anyone with the app has your latest contact details at their fingertips.
+
+Create your free digital business card with a QR Code.
+
+
+NFC Business Cards: The Card of the Future
+Business cards that include QR codes are largely the norm in 2023. But remember: if you share a business card, it’s likely that you seek to stand out from the crowd.
+
+If you want even less friction - literally - then it’s time to think about NFC business cards. NFC (or near field communication) cards only require a tap to launch a link to your digital business card. Tap it on a mobile device, and you’ll instantly see a clickable link.
+
+‍
+
+
+NFC business cards help your recipient tap their way to your digital business card - no QR scanning needed.
+‍
+
+Even better news: an NFC card can include a QR code. While most devices support NFC interactivity, you can’t risk missing a connection to someone with an unsupported device. By including a QR code on your printed card, you’ll never miss an opportunity to stay in touch.
+
+NFC cards are here to stay. They give you the easiest way to connect to a digital business card. If you want to create one of your own, read on to find out how.
+
+How to Print Your QR-Enabled Business Card
+Not all business cards are built equally. And in fact, quality matters a lot when it comes to QR codes. The quality of your printed QR code impacts the scannability. Low-resolution or blurry QR codes are less likely to scan on mobile cameras.
+
+Luckily, Blinq gives you the freedom to create printed, high-quality business cards. That also includes NFC cards that include the tech you need for no-touch connection.
+
+‍
+
+
+After you create your digital business card, Blinq also supports printing a physical version of your card that includes a QR code and NFC tech.
+These printed cards are totally optimized for your QR code. They link to the same digital business card you created on the Blinq platform. Whether touchless or QR-linked, they serve as the perfect way to send a recipient your details.
+
+Guide: how to create your NFC Business Card
+
+Scan Your Way to Success With QR Codes
+Are QR codes on a business card good or bad? If I had to pick just one option, it’s clear: these are an excellent addition to any business card. They’re easy to add and a breeze to maintain, thanks to tools like Blinq.
+
+Remember: the QR code is the bridge to your digital business card. You can create both your QR code and a digital business card with the help of Blinq - all for free.
+
+‍Still unsure about adding QR Codes to your business cards? Want an in-depth briefing? Read our full guide on QR codes for business cards
+
+Share
 Ready when you are
 Blinq is trusted by thousands of users to share their professional identity every day. Now it’s your turn.
 
@@ -5268,6 +5924,1397 @@ Empower Your Enterprise With Digital Business Cards
 Ready to switch from paper business cards to a more sustainable and innovative option?
 
 ‍Book a demo with us now.
+
+Share
+
+
+
+
+Ready when you are
+Blinq is trusted by thousands of users to share their professional identity every day. Now it’s your turn.
+
+Create Your Card
+
+
+app store
+google play store
+
+Product
+Individuals
+Businesses & Teams
+NFC Business Cards
+Pricing
+Solutions
+Digital Business Cards
+Email Signature
+Resources
+Help
+Blog
+Contact
+Work at Blinq
+Privacy Policy
+Terms & Conditions
+Terms of Use
+Press Kit
+Responsible Disclosure Program
+Security
+Access
+Log In
+Sign Up Free
+© 2017-2023 Blinq Technologies Pty Ltd. All Rights Reserved.
+
+
+
+
+
+Digital Business Cards
+For Businesses & Teams
+NFC Business Cards
+Pricing
+Blog
+Log In
+Create Your Card
+Home>Blog>QR Code Business Cards
+QR CODE BUSINESS CARDS
+Are Digital Business Cards Worth It? We Think So!
+Originally Published:
+February 8, 2023
+  •  
+7 min read
+Last Updated:
+Feb 28, 2023
+Are Digital Business Cards Worth It? We Think So!
+By  Akachukwu Obialor
+Freelance writer
+
+Are Digital Business Cards Worth It? We Think So!
+Are you thinking of getting digital business cards, but are unsure they’re worth the investment? In this blog, I’ll outline some of the reasons I think they’re worthwhile!
+
+As part of my research for this article, I interviewed people like you — realtors, salespeople, and small business owners — to find out why they thought digital business cards were worth it
+
+Here are some reasons they gave:
+
+1. They're free to update if your role or contact information changes
+
+2. Gives unlimited space to accommodate your personal details
+
+3. Makes it easy for prospects and customers to contact you
+
+4. Cuts costs
+
+5. Reduces your carbon footprint.
+
+6. Integrates with CRM and active directories to aid follow ups
+
+7. Facilitates networking across geographical boundaries
+
+8. Providers like Blinq let you try them for free to make your own mind up
+
+Digital business cards: Reasons they’re worth it
+1. They're free to update if your role or contact information changes
+Traditional business cards become redundant each time you get a new job title or phone number. No matter how good your old cards are, you must purchase new ones.
+
+With Blinq digital business cards, there’s no need to purchase new cards every time your information changes. 
+
+Simply log into the Blinq application or web dashboard. Update your information. And click save. That’s all.
+
+2. Gives unlimited space to accommodate your personal details
+An average printed business card is 3.5x2.0 inches. In most cases, it can't accommodate all your information.
+
+In contrast, digital business cards are large enough to accommodate all details you’d like to add. And contacts can zoom in on any portion if they need a clearer view.
+
+Amazing, right?
+
+Take a look at the card I created:
+
+
+All my professional information is on the card. None of my details are squished together or illegible. Plus there's still space to add more information if I wish to. 
+
+Need a bit more information about digital business cards?Learn more about how digital business cards work.
+
+3. Makes it easy for prospects and customers to contact you
+I find that it’s difficult for people to contact you via paper business cards. 
+
+Firstly, they must manually copy out your details. And they can't reach you if they misspell a  word or miss a single digit.
+
+Also, not everyone may be patient enough to copy your details from a paper card. It takes time and focus to avoid making a mistake.
+
+With a digital business card, all a client does is tap, and they’re immediately redirected to your social media profiles, website, payment platform, and so on.
+
+They can even book meetings and call directly from Blinq’s Calendly and click-to-call icons respectively. This makes it easier for prospects to reach you.
+
+4. Cuts costs
+Paper-based business cards cost a lot.
+
+A stack of 100 cards costs anywhere from $10-50 (or 0.10-0.50 cents per card), depending on the paper stock used, design elements, printing method, and whether it’s one-sided or two-sided.
+
+I’m sure you’d agree with me that the cost is too high for a piece of paper that will likely get missing, end up in a landfill, or remain in a closed cabinet for eternity
+
+Additionally, cards with the lowest costs have lower quality. And as a professional, your card says a lot about your expertise.
+
+Digital business cards reduce costs in many ways.
+
+You can create your card yourself, without hiring a graphic designer. 
+
+All you need are your brand’s color palette and logo, links to your socials and website, and personal details you’d like to add.
+
+Also, Blinq enables you to create your first two business cards for free. While the Premium or Business plans start from $4.99 per month.
+
+5. Reduces your carbon footprint
+Paper business cards contribute to the destruction of the environment.
+
+A recent study reports that the paper and pulp industry is the third largest contributor to industrial pollution in the United States of America.
+
+Also, most paper business cards end up in landfills since they’re made of glossy or coated paper, which cannot be recycled. 
+
+Digital business cards are sustainable. They don't cause the felling of trees. And they don't end up in landfills.
+
+So, by using digital business cards, you play your role in protecting the environment as you connect with contacts.
+
+6. Integrates with CRM and active directories to aid follow ups
+With digital business cards, you can centralize the contact information of every person who shares their details with you. This makes it easy to turn contacts to leads and grow mutually beneficial relationships. 
+
+For instance, Blinq business’ Zapier integration connects with CRM (customer relationship management) tools like Salesforce, Hubspot, and Zoho. Your contacts can export automatically to your CRM. 
+
+Also, you can download the CSV file of your contacts. Simply click Contacts<export contacts<download CSV from your dashboard.
+
+This way, you keep in touch with contacts, nurture warm leads, and turn them into clients.
+
+7. Facilitates networking across geographical boundaries
+Virtual networking events and meetings are now commonplace. 
+
+In a recent survey by LinkedIn, 28% of marketers said 90-100% of their events are now virtual. 
+
+Digital business cards help you network during these events.
+
+You can share them via email, text message, LinkedIn private message, and so on.
+
+
+Also, Blinq lets you create a virtual background with your QR code. Here’s what mine looks like:
+
+
+Anyone that scans the QR code is automatically redirected to my digital business card.
+
+Want one of your own? Create a Blinq virtual business card today
+
+8. Providers like Blinq let you try them for free to make your own mind up
+Imagine this scenario:
+
+You pay for a large delivery of paper business cards. Upon opening the package, you discover that they don't meet your needs or preferences. The money you spent vanishes with no result.
+
+That’s the risk of paper business cards.
+
+No printing service offers a free trial card to let you see if the investment is worth it before you commit. 
+
+But on Blinq's free plan, you get two free digital business cards with unlimited shares. You can give them out, measure their impact, and decide if you want to invest in them.
+
+Create a free digital business card on Blinq today.
+
+How to get the most out of a digital business card
+Ensure your digital business card is visually appealing and easy to read
+The design of your card should be attractive and professional to capture attention and present you as a professional.
+
+When designing your card, keep these in mind:
+
+✅ Avoid clutter: it shouldn’t be cluttered with information. Keep it clean and simple.
+
+✅ Arrange your details hierarchically. Your name should be the first thing on your digital card. Followed by your title. And so on.
+
+✅ Ensure the font sizes are legible
+
+✅ Your brand and card design should align. Add your color palette and Logo.
+
+You can use these examples of digital business cards as a guide. We’ve also got industry-specific articles for realtors, digital nomads, and photographers!
+
+Add a high-quality headshot
+A great headshot exudes confidence, competence, and professionalism. It plays a huge role in determining people’s perceptions of you.
+
+Your headshot should align with your brand, and be of high quality to avoid pixelation.
+
+Blinq has curated a list of 15 great professional headshots. You can use it as a guide. 
+
+Include essential links
+Provide contacts with different ways to reach you. 
+
+This includes
+
+✅ Social media links 
+
+✅ Links to your Website or landing page
+
+✅ Links to your Payment information
+
+✅ Links to your Scheduling pages (Calendly, Google Calendar, etc)
+
+This way, they can contact you from your business card. 
+
+Demonstrate expertise by linking to your eBook
+Including a link to your eBook card tells potential clients, partners, or employers you’re an expert. They will be more likely to trust you and do business with you.
+
+Repurpose it 
+There are different ways to use a digital business card.
+
+✅ Share it in the bios of your social media accounts
+
+✅ Include it in your ad campaigns
+
+✅ Embed it on your website. We have a guide on how to embed your digital business card on your website.
+
+✅ Include the QR code in your company merch
+
+Use it as your email signature
+You can use your digital business cards as email signatures. This makes it simple for others to get in touch with you, while also projecting an expert image to those who receive your emails.
+
+Blinq lets you create your email signature from your dashboard. 
+
+Simply import your details from your digital card, click save, then add it to your email account.
+
+
+Want an email signature but don’t have a Blinq account? Generate a free email signature
+
+Share your digital business card on social media
+You reach a wider audience and increase online visibility by sharing your digital business card on social media.
+
+Add your QR code to the virtual background during meetings
+During remote meetings, you can use your digital business card’s QR code to create a virtual background.
+
+Attendees get your digital business card when they scan the QR code.
+
+What should I put on my business card?
+Contact information
+This is a vital portion of your business card. Because people can’t reach you if there’s no contact information.
+
+Your contact information includes your:
+
+Name
+Title and headline
+Company name
+Phone number
+Email address
+Website.
+Address (virtual or physical)
+Professional headshot (profile picture)
+At first glance, your headshot tells if you’re someone to connect with or not. So, it’s important to use one that’s professional looking.
+
+Brand assets
+This includes your logo and color palette. Ensure the logo is legible and not pixelated.
+
+Social media links
+Include links to social media profiles. This way, people have multiple ways to connect with you.
+
+Additional data
+Include other relevant additional information such as skills, accreditations, meeting links, and payment links.
+
+How do I create a digital business card on my phone?
+Firstly, download the Blinq application to your phone. 
+
+Use this link if you're an iPhone user: Blinq iOS App
+If you're an Android user, use this link: Blinq Android App
+Then follow the instructions in this video:
+
+
+Final thoughts: Digital business cards are beneficial
+Digital business cards are becoming the norm for a reason. They save you money in the long run, are large enough to accommodate your information, and prevent lost opportunities due to misplaced or trashed physical cards.
+
+Create a free digital business card on Blinq today.
+
+Share
+Ready when you are
+Blinq is trusted by thousands of users to share their professional identity every day. Now it’s your turn.
+
+Create Your Card
+
+
+app store
+google play store
+
+Product
+Individuals
+Businesses & Teams
+NFC Business Cards
+Pricing
+Solutions
+Digital Business Cards
+Email Signature
+Resources
+Help
+Blog
+Contact
+Work at Blinq
+Privacy Policy
+Terms & Conditions
+Terms of Use
+Press Kit
+Responsible Disclosure Program
+Security
+Access
+Log In
+Sign Up Free
+© 2017-2023 Blinq Technologies Pty Ltd. All Rights Reserved.
+
+
+
+
+
+Digital Business Cards
+For Businesses & Teams
+NFC Business Cards
+Pricing
+Blog
+Log In
+Create Your Card
+Home>Blog>Realtors and Real Estate
+REALTORS AND REAL ESTATE
+7 Free Excel Templates to Help Realtors Get Business in Order
+Originally Published:
+January 12, 2023
+  •  
+5 min read
+Last Updated:
+Jan 13, 2023
+7 Free Excel Templates to Help Realtors Get Business in Order
+By  Andrew Childress
+Freelance writer
+7 Free Excel Templates to Help Realtors Get Business in Order
+Realtors are asked to do an impossible number of tasks: marketing, sales, negotiation, and even accounting. You need tools at your disposal to guide you through each of these roles, even if they aren’t your forte. 
+
+Our Excel templates for realtors are designed to do that. You’ll get helpful cues that remind you what to record, track, and analyze.
+
+A spreadsheet’s rows and columns give you the structure to capture every detail about your clients, your properties, or your investments. Instead of leaving these details to memory, use a spreadsheet as the brain for your real estate business.
+
+In this post, we’re sharing 7 Excel templates realtors are sure to benefit from! Whether you’re using a spreadsheet to track leads, calculate a profitable investment, or run a property, we’ve got you covered.
+
+Real Estate Commissions Tracker
+Mortgage Calculator
+Open House Notes Tracker
+Home Upkeep and Maintenance Expense Projection
+Rental Profitability Calculator
+Real Estate Lead Spreadsheet
+Rental Property Tracker
+1. Real Estate Commissions Tracker
+
+Cash flow is the lifeblood of your business. And of course, every real estate agent lives and dies by the commission on properties sold. You need a tool that helps you monitor your commissions and potential commissions so that you know how much income to expect.
+
+This spreadsheet is perfect for the job. Each row in the inputs section corresponds to a property you’ve sold. You can input your commission percentage and any potential deductions for expenses. Best of all, you can even track which commissions you’re still owed so that nothing slips through the cracks.
+
+Download the Real Estate Commission Tracker for Excel
+
+2. Mortgage Calculator
+
+‍
+
+Interest rates are changing rapidly. That means that buyers need help understanding their options. And while you might not be the mortgage broker, you can still offer helpful ballpark estimates.
+
+Excel templates for realtors like this one enhance your advisory skills. Picture this: with a few basic, standard inputs, you can give a buyer a range on their monthly payment. If you stay up-to-date with market interest rates, you can easily quote an estimated payment thanks to this spreadsheet.
+
+‍Download the Mortgage Calculator for Excel
+
+3. Open House Notes Tracker
+
+Running an open house is more difficult than it seems! You’ve got active traffic from interested buyers, and each one might just be your next customer. The hard part is keeping track of all the details. 
+
+In this case, you can use our Excel templates for realtors to log each visitor, their interest in the home, and how to follow up with them. Capture these details, then use the spreadsheet to plan your follow-up. Bonus tip: share your contact details using Blinq, a digital business card for realtors, for an even better chance of reconnecting.
+
+Download the Open House Notes Tracker Excel Template
+
+4. Home Upkeep and Maintenance Expense Projection
+
+Don’t want to be surprised by unexpected expenses? Well, then you need a forecast. Home maintenance is a certainty, so it makes good sense to forecast it.
+
+With this easy-to-use spreadsheet, you can forecast your expenses according to how often it needs to be performed. Then, input your planned costs. The result is an easy-to-review maintenance forecast that you can drop into your household budget.
+
+Download the Home Upkeep and Maintenance Expense Projection Excel Template
+
+5. Rental Profitability Calculator
+
+Pondering your first real estate investment? We all daydream of easy, passive income. The problem is that real estate rentals are more complex than you might imagine.
+
+This spreadsheet helps you navigate the uncertainty and ensure that your investment is a good one. It features helpful reminders for expenses you might forget, like vacancy rate and annual tax expenses. Input each of these, and you’re on your way to a clear view of cash flow.
+
+Download the Rental Profitability Calculator for Excel
+
+6. Real Estate Lead Spreadsheet
+
+You’re constantly meeting new people. That means that you have plenty of contacts and details to keep up with. And while you could simply save them to your phone or email, you’ll miss many of the most important details.
+
+It pays to use this Real Estate Lead Spreadsheet. Spreadsheets are the perfect way to record details on your buyers. In turn, that helps you visualize your sales pipeline. You could even pair this sheet with file sharing tools for realtors to remind you when contracts have been sent.
+
+Download the Real Estate Lead Excel Spreadsheet Template
+
+7. Rental Property Tracker
+
+So, you’ve bought a rental property. How do you actually know it’s performing up to your expectations?
+
+The answer is you need to log all info, then analyze the performance. This can help you make changes in how you operate. Use one tab to log all of your income and expenses, then review a summary with an easy-to-navigate analysis table.
+
+Excel templates for realtors like this one also save you time during tax season. With tracking accurate property financials, your CPA is sure to thank you.
+
+Download the Rental Property Tracker Template for Excel
+
+You Can Excel In Your Real Estate Business
+Each of these templates serves a different purpose, but the goal is shared: tame your real estate business with the power of spreadsheets.
+
+Remember: a real estate purchase is likely the largest of someone’s life. You need to build trust and a relationship with your client. Start with a seamless introduction using your free digital business card, and you open the door to your next big sale.
+
+‍
+
+Share
+Ready when you are
+Blinq is trusted by thousands of users to share their professional identity every day. Now it’s your turn.
+
+Create Your Card
+
+
+app store
+google play store
+
+Product
+Individuals
+Businesses & Teams
+NFC Business Cards
+Pricing
+Solutions
+Digital Business Cards
+Email Signature
+Resources
+Help
+Blog
+Contact
+Work at Blinq
+Privacy Policy
+Terms & Conditions
+Terms of Use
+Press Kit
+Responsible Disclosure Program
+Security
+Access
+Log In
+Sign Up Free
+© 2017-2023 Blinq Technologies Pty Ltd. All Rights Reserved.
+
+
+
+
+
+Digital Business Cards
+For Businesses & Teams
+NFC Business Cards
+Pricing
+Blog
+Log In
+Create Your Card
+Home>Blog>Realtors and Real Estate
+REALTORS AND REAL ESTATE
+7 Customer Service Skills All Amazing Realtors Possess
+Originally Published:
+January 5, 2023
+  •  
+5 min read
+Last Updated:
+Jan 5, 2023
+7 Customer Service Skills All Amazing Realtors Possess
+By  Tom Gil
+Real estate copywriter
+
+7 Customer Service Skills All Amazing Realtors Possess
+If you’re reading this, you’re probably a junior realtor. And that’s ok. The trail to a mountain’s peak starts at its bottom, and all masters started as students. So, here are the seven customer service skills amazing realtors possess.
+
+My first experience with a realtor
+First, a story from my own personal experience.
+
+When I bought my first investment property in 2017, I was 26 years of age, I purposefully chose a small, family-owned team, because it was my very first professional interaction as a buyer, and needed a guiding hand—to not just help me with the paperwork—but educate me on things I’m yet to discover. My chosen agent and his team (his wife and one assistant) didn’t believe this B-class property was a good deal, but I insisted, having noticed some serious market trends. 
+
+Long story short, I ended up buying a condominium next to UNLV (University of Las Vegas).
+
+I knew the current tenant was paying $600 a month, that they were about to leave the apartment, and if I put about $4k into fixing and furnishing it, I could rent it for $200 more. My agent didn’t believe it’ll rent for $800. Guess what? It did.
+
+For twelve months the property cash-flowed. Then, I wanted to sell. 
+
+We found a buyer from California, and everything went smoothly. I bought it for $60k, and sold it for $89k. However, after the paperwork was signed, and money was in escrow, on the very last day of the process, Murphy's law hit me with a pipe leak. And my agent? He was on vacation and uncontactable.
+
+His trusty assistant (who was genuinely superb) was also on vacation. There wasn’t anyone at the firm who could help me or reassure me and he hadn’t put a substitute agent in place. Being a newbie, I freaked out. Now that I’m a bit more experienced, and after the deal did go through, I know I overreacted, but ultimately, the agent could have provided better customer service. 
+
+Here’s why.
+
+7 Customer service skills amazing realtors have
+1. Setting up an emergency line
+Ok, it’s not a skill, but my story emphasizes this perfectly. The feeling of helplessness left a bitter taste in my mouth. It actually made me not want to work with him anymore. Everyone deserves a vacation, and deals happen year-long, but it was his responsibility to have at least one operating member on his team able to respond if/when emergencies (or urgent calls) happen. Don’t be that agent who leaves no one at the helm. Ever.
+
+2. Communication
+Clear communication is the backbone of every human interaction, especially in deal-making; and even more so when it involves an emotional purchase carrying a high-ticket price, like a house.
+
+3. Setting expectations
+Explain the process, timeline, and what’s required from you and your client for everything to go smoothly. If the commission from smaller deals like mine won’t appeal to you, refer to someone else. If you only specialize in selling homes to families, not condos for investors, say so. 
+
+4. Balancing sales and service
+Understand the difference between selling and helping. In a perfect scenario—and those happen—these two align. But sometimes, agents can cross the line, mistake the grey zone, and blur the boundaries. If it’s a win for you but not so much for the other sides (seller and/or buyer), then maybe this quick gain (think: fat check) isn’t worth tarnishing your brand over (long-term referrals and reputation). 
+
+5. Be transparent
+Even at the cost of losing a client. Be radically honest, and tell your client if you know the agent on the other side, how it affects the deal, how much fees and commission are involved, and why.
+
+6. Be empathetic
+To be empathetic, you’ll have to employ active listening and go beyond just hearing what is said. You’ll have to understand what is said, and why. Ryan Serhant once shared he was able to sell a mansion to a wealthy person just because he realized, after actively listening, that this home purchase is happening because he’s getting divorced, and as a father, he really cares about the new rooms of his two daughters. So Ryan focused his showings in this instance on homes with unique, spacious, and cozy kid rooms.
+
+7. Be knowledgeable 
+Being able to educate your clients and guide them throughout the process is key to providing best-in-class customer service. Paradoxically, this can eliminate future complaints—and complaints are what we think about when we say “customer service”. So, let’s call being knowledgeable “preventative customer service”.
+
+Bonus: Know your audience
+At the time, five years ago, I thought a realtor is a realtor, without being able to distinguish between different types of agents. I told my agent I am going to lease the property. But in hindsight, my realtor worked with home buyers, or mortgage to own, not mortgage to lease (I paid cash, but it’s the mindset and knowledge we’re talking about), and yet he onboarded me even though he didn’t specialize in what I needed.
+
+Knowing who you serve is the foundation of providing them with quality customer service.
+
+Now that you know to focus on communication, expectations, the difference between selling and helping, transparency, empathy, knowing your audience, and how important it is to set up an emergency line, you’re one step ahead of other agents!
+
+Other things you might be interested in
+A free digital business card to market yourself as a realtor
+Linkedin for Realtors: what to share [with examples]
+File sharing for realtors: 5 tools, 5 tips + 4 best practices
+‍
+
+Share
+Ready when you are
+Blinq is trusted by thousands of users to share their professional identity every day. Now it’s your turn.
+
+Create Your Card
+
+
+app store
+google play store
+
+Product
+Individuals
+Businesses & Teams
+NFC Business Cards
+Pricing
+Solutions
+Digital Business Cards
+Email Signature
+Resources
+Help
+Blog
+Contact
+Work at Blinq
+Privacy Policy
+Terms & Conditions
+Terms of Use
+Press Kit
+Responsible Disclosure Program
+Security
+Access
+Log In
+Sign Up Free
+© 2017-2023 Blinq Technologies Pty Ltd. All Rights Reserved.
+
+
+
+
+
+Digital Business Cards
+For Businesses & Teams
+NFC Business Cards
+Pricing
+Blog
+Log In
+Create Your Card
+Home>Blog>Brand Building
+BRAND BUILDING
+15 Great Professional Headshot Examples (And Why They Work)
+Originally Published:
+January 19, 2023
+  •  
+8 min read
+Last Updated:
+Feb 8, 2023
+15 Great Professional Headshot Examples (And Why They Work)
+By  Juliet John
+Freelance writer
+
+15 Great Professional Headshot Examples (And Why They Work)
+In 2019, a San-Franscisco-based headshot studio commissioned a four months study to prove the importance of professional headshots. They asked 243 randomly selected people to rate the competence, likeability, and influence of 3 participants based only on their headshots. For comparison, they provided 1 professional headshot and 1 low-quality image of each participant. 
+
+The result? Professional headshots led to a 76% increase in how competent each participant appeared. It also increased their likeability and influence by 9% and 62%, respectively. 
+
+What does this tell you?
+
+It tells me that in this era of on-screen first impressions, the professional imagery you put forward influences people’s perceptions of you. And in a big way.
+
+Whether you’re getting ready to land your next job or  to network with other professionals, a professional headshot presents you in the best light and makes others take you seriously.
+
+So, today, I’ll show you 15 great professional headshot examples to inspire your next headshot shoot. I’ve sourced these headshots from across the web from a range of different industries. I’ve also rounded up expert tips (from pro photographers) for getting the best professional headshots.
+
+But first —
+
+What Makes A Great Headshot?
+A confident, competent, and organized look that tells people who come across your online profile or digital business card that you know your stuff. 
+
+Because a headshot is to your personal brand what a logo is to a company, Dan Lewis, pro photographer at Badassity Brand Photography, says its job is to represent your unique personality, style, and energy.
+
+He says a great headshot should be a mix of
+
+authority
+empathy and
+approachability. 
+At first glance, a person should be able to form an impression of who you are and decide whether you’re worth connecting with. This means your pose, outfit, and backdrop should be consistent with your personal brand and resonate with the people you’re connecting with. 
+
+Now that you know what a great headshot should look like, here are some headshot examples from different professions to inspire your headshot shoot.
+
+15 Great Professional Headshot Examples and Why They Work
+1. A Realtor Headshot Which Gives Off an Approachable Vibe
+‍
+
+
+source: LinkedIn
+How do you imagine a realtor’s headshot should look? 
+
+I’d say professional, trustworthy, and kind, given the nature of their job. And that’s exactly how Damian’s LinkedIn headshot looks. 
+
+Whether you’re a male or female real estate agent, a formal business look helps define the kind of business you run. To that, a nice jacket, dress shirt, a tie (if male), and warm smile send just the right message — I’m the professional you can trust.
+
+Even though Damian’s outfit gives his headshot a serious formal look, his warm smile and soft gaze make him look very approachable. Just from this headshot, you’d agree he’s the kind of realtor anyone would choose to work with.
+
+💡Pro tip → Are you a realtor? If yes, learn more about Blinq, the digital business cards realtors love.
+
+2. A Freelance Writer's Headshot With a Compelling Look
+
+Source: Twitter
+Freelance content writer Orgesa gets so many things right with her headshot. First, the plain background works well with her hair, outfit, and brand colors to keep the attention on her face. 
+
+Then her subtle smile and focused gaze make her appear compelling and likable. And if you’re a writer, that’s the kind of perception you’d want potential clients and industry peers to have when they come across your profile. 
+
+3. A Creative Headshot Example for A Graphic Designer
+
+Source: Twitter
+What I love about Maggie’s headshot is the creativity and thought she put into it. 
+
+From her pose to the grayscale theme, you can tell she understands the importance of showing off her personality while maintaining a tasteful look.
+
+The days of wearing only formal outfits for professional headshots are long gone, especially if you work in a creative industry.
+
+Now, when you network with professionals online, they want to see and connect with the personality behind your brand. So, if you’re a creative, capture it in your headshot. Let people get a hint of who you are by looking at the image on your profile.
+
+4. A Sporting Director Headshot With a Smart, Impressive Look
+
+Source: Twitter
+I love how Chris’s formal outfit and studio setting give his headshot a professional look consistent with his industry. However, his big smile and happy eyes convey a relaxed, friendly personality which is great for creating an instant connection with people.
+
+5. A Solopreneur With a Self-Assured Headshot
+
+Source: Twitter
+If you plan to become a successful solopreneur, then you understand that you’re the brand and the business. Therefore, you must look the part at all times, beginning with your headshot. 
+
+Justin Welsh’s Twitter headshot gets it right. 
+
+As someone who works primarily with early-stage startups and entrepreneurs, the dark background, stern look, and glint in his eyes send a powerful message—I’m confident, resilient, and professional.
+
+One look at his headshot, and you’d think he's a serious businessman. And for someone whose business is building an audience and connecting with other professionals online, that’s a great first impression.
+
+6. A Photographer’s Headshot With a Cheerful, Welcoming Vibe
+
+Source: LinkedIn
+For photographers, the feelings your headshot evokes give people a hint of what to expect should they decide to shoot with you. 
+
+Glynns’ headshot exudes a calm, friendly feeling, which can build trust with potential clients. Her wide smile invites you to relax while she helps you create the professional portraits you desire.
+
+From the way she holds her camera up, you can tell she’s a photographer before you read her headline. Including an object or backdrop that shows your business or brand is always a great idea as long as it’s not distracting.
+
+💡Pro Tip → If you’re a photographer, learn more about Blinq, the digital business cards photographers love.
+
+7. An Architect’s Headshot With a Look of Competence
+
+Source: Twitter
+One thing Marica’s headshot gets right is it relates to the field she works in. Her jacket, hairstyle, and facial expression exude competence, the core quality expected of architects. The environmental background acts as a prop and adds context to her photo.
+
+Even though she works in a professional field, her casual pose and genuine smile give off a cool, approachable vibe. 
+
+8. A Non-Profit Worker With an Environmental Style Headshot
+
+Source: LinkedIn
+The non-profit sector is often less formal than its corporate counterpart. So, a lovely outdoor headshot like Caroline’s is a great idea if you’re a charity or social worker.
+
+Caroline’s wide smile gives her headshot a kind, authentic outlook. Her direct gaze is great for creating an emotional connection with the viewer. The natural background also brings a calm feeling that’s in line with her industry. 
+
+9. A Marketing Director’s Headshot With a Professional, Confident Look
+
+Source: LinkedIn
+People who work in marketing know that faces are a powerful part of personal branding. 
+
+A great headshot on your social profiles makes you look competent and builds a sense of trust with prospective clients and industry peers. 
+
+Take Adam’s headshot as an example. His sharp formal outfit and business-inspired silhouette are relatable to other professionals in his field. 
+
+His calm facial expression also sends a powerful message—I’m the guy you can trust to deliver successful outcomes for your business.
+
+10. An Event Manager’s Headshot With a Nice Casual Look
+
+Source: LinkedIn
+For someone who works in the hospitality industry, Katherine's LinkedIn headshot does a great job of balancing business with casual. 
+
+Her nice outfit, charming smile, and backdrop align with her lifestyle brand.
+
+‍👀Did you know?→ You can instantly share your headshot and other contact details with a single tap. Create your free Blinq card here 💡
+
+11. A Captivating Chef Headshot
+
+Source: Twitter
+I’d say Takashi's headshot is everything a chef's headshot should be—illustrative and professional. 
+
+Though taken indoors, the natural light combines with his outfit and relaxed pose to give his headshot a captivating look. 
+
+As a chef, your headshot should reflect your style and personality as much as your food does. 
+
+So if the classic chef pose isn't your mojo, feel free to try something less traditional like smiling, laughing, or garnishing a dish.
+
+12. A Vibrant Social Media Manager Headshot
+
+Source: LinkedIn
+What I love the most about Kassandra’s LinkedIn headshot is the overall play of colors. The solid background, green outfit, and dark hair work together to make her face and expression sparkle.
+
+Considering the saturated industry she works in, a headshot like this helps her stand out. 
+
+At first glance, she checks a lot of boxes. Creative. Great personality. Approachable. These are traits business owners look for when hiring social media managers. So, make sure the headshot you put forward represents you accordingly!
+
+13. A Psychologist's Headshot With a Friendly Look
+
+Source: LinkedIn
+For psychologists, it's important to balance professionalism with personality. If you’re meeting clients on social media, your headshot should communicate who you are and give them a hint of what it’s like to sit with you.
+
+Take Jennifer's LinkedIn headshot as an example. She looks happy, friendly, and inviting—an awesome first impression for a psychologist and a great way to build trust with new clients.
+
+The soft lighting combines with her smile and natural look to give the impression that she’s a kind and gentle person. It looks like she’s saying:, “l see you, you can speak to me, I want to listen.”
+
+14. A Journalist's Headshot With a Calm, Collected Look
+
+Source: LinkedIn
+Part of being a journalist is approaching people you don’t know to ask for interviews. As such, a friendly and professional headshot goes a long way in determining whether they’ll decide to speak to you.
+
+Take a look at Beth’s headshot.
+
+It looks professional but is also inviting and approachable. 
+
+The studio lighting, plain background, and warm colors keep the viewer's attention on her face. Her slightly forward posture, appearance, and facial expression all feel soft and calming.
+
+15. An Author’s Headshot With a Relaxed, Fun Vibe
+
+Source: LinkedIn
+If you’re an author, then understand that an impressive headshot is not only essential for your personal brand. It also gets people interested in reading your book. 
+
+Look at Roger Neilsen’s LinkedIn headshot. It’s
+
+neat
+looks intelligent and 
+interesting.
+The bright lighting and plain studio background keep the focus on his face. And though his outfit is business-like, his pose and facial expression suggest a fun and welcoming personality. It wouldn’t be out of place to assume his book will match his image. 
+
+Now, as you use the above examples as inspiration, keep the following tips from professional photographers in mind.
+
+Top 4 easy ways to make your headshot look professional
+1. Make Sure You Use Great Lighting
+Whether it’s natural or artificial studio lighting, good lighting is key to getting a great professional headshot, says Paul Smith, headshot photographer at Paul David Smith Photography. He recommends taking some shots in both a studio and a natural setting.
+
+
+Paul David Smith
+“Professional photographers have studio flashes they can control. But if taking shots indoors using natural light, then ensure you have the photo taken near the window, so lots of light falls on your face. If outdoors, try to avoid direct sunlight as they make you backlit”.
+2. Dress Properly and Comfortably
+
+Darren Irwin, Headshot Photographer at Newcastle Headshots.
+"You should dress in a way that represents your personal brand, specifically how your colleagues and clients would expect to see you.”
+According to professional head photographer Richard Waine, your headshot won’t look great if you’re not comfortable in your outfit. Therefore, he recommends using the clothes you love as they help boost your confidence in front of the camera. However, they shouldn’t be overly busy or distracting.
+
+3. Avoid Cluttered or Distracting Backgrounds
+Cluttered or distracting backgrounds with bold patterns and logos detract from your image and take the focus away from you. You should also make sure the backgrounds you choose, whether indoor or outdoor, work well with your choice of outfit.
+
+4. Be Yourself
+The best professional headshot looks natural and brings out your best features. So, Paul David Smith recommends not overthinking or overdoing your facial expression.
+
+What is The Best Color to Wear For a Professional Headshot?
+When it comes to colors, both dark and light colors can work well. However, dark, solid colors do a better job of highlighting your features, says Chris Cottrell, headshot photographer at Cottrell Photographers.
+
+What Outfit Should a Woman Wear For a Professional Headshot? 
+Headshot and commercial photographer, Glynns Thomas suggests using simple well-fitted clothing that keeps the focus on your face instead of your outfit. For instance, v-necks and button-down shirts can give you a lovely neck length, while flowy, loose-fitting clothes make you look bigger on camera.
+
+How to Prepare For Your Professional Headshot
+Choose a photographer who specializes in headshot photography: Heike Martin, a headshot and branding photographer recommends choosing a headshot photographer you connect with on a personal level. According to her, such a photographer will communicate in a transparent and friendly manner. They’ll also help you relax, prepare for the shoot, and have an amazing experience, which will impact the quality of the images you get.
+Pick your outfits early, then press them to ensure they’re free from wrinkles, pet hair, and lint (studio light can pick those up).
+Get some rest before your shoot so you can relax better in front of the camera.
+Prepare to spend a decent amount of time in there because rushing can affect the quality of your headshots. 
+Go into your headshot ready to have some fun and a few laughs. 
+Get Ready to Share Your Professional Headshot With Blinq
+Now that you have your professional headshot ready, the best way to share it is with Blinq.
+
+‍Blinq allows you to customize your digital business card with your professional headshot, personal branding, and contact information. Look at mine below.
+
+
+An example of a freelancer’s Blinq digital business card with a professional headshot.
+Want to learn the basics of digital business cards? We’ve got you covered. Read our guide to discover how digital business cards work.
+
+You can easily add your headshot to your business card by selecting it from your camera roll. 
+
+Once you’ve added it, go ahead and share your card with your network through the Blinq app. 
+
+Anyone who saves your card on their device or views it on social platforms like Twitter or LinkedIn will see your professional headshot.
+
+Create your free Blinq digital business card today.
+
+Share
+
+
+
+
+Ready when you are
+Blinq is trusted by thousands of users to share their professional identity every day. Now it’s your turn.
+
+Create Your Card
+
+
+app store
+google play store
+
+Product
+Individuals
+Businesses & Teams
+NFC Business Cards
+Pricing
+Solutions
+Digital Business Cards
+Email Signature
+Resources
+Help
+Blog
+Contact
+Work at Blinq
+Privacy Policy
+Terms & Conditions
+Terms of Use
+Press Kit
+Responsible Disclosure Program
+Security
+Access
+Log In
+Sign Up Free
+© 2017-2023 Blinq Technologies Pty Ltd. All Rights Reserved.
+
+
+
+
+
+Digital Business Cards
+For Businesses & Teams
+NFC Business Cards
+Pricing
+Blog
+Log In
+Create Your Card
+Home>Blog>Realtors and Real Estate
+REALTORS AND REAL ESTATE
+Digital Transformation in Real Estate: How to Adapt in 2023
+Originally Published:
+January 25, 2023
+  •  
+5 min read
+Last Updated:
+Jan 30, 2023
+Digital Transformation in Real Estate: How to Adapt in 2023
+By  Tom Gil
+Real estate copywriter
+
+Digital Transformation in Real Estate: How to Adapt in 2023
+Digital transformation in real estate started about a decade ago, with the PropTech (property technology) sector raising $250 million in venture capital. But in 2022, PropTech reached mesmerizing heights, as VC poured $13.1 billion into the industry, causing it to outperform the global venture capital market. In 2023, in order to adapt to these digital transformations in real estate, pay attention to these trends.
+
+Digital journeys 
+43% of US homebuyers are millennials, and 63% of clients are more likely to return to websites providing virtual chat support. Combining these two stats with common sense proves younger buyers, as they naturally grow older and seek a home, will become your target audience, and that because they grew up in a digitally interconnected, agile environment — their expectations of a digital journey will no longer just be expectations — but requirements. 
+
+Millennials will avoid bureaucracy and flee to brokerages and agents who digitally adapted to reduce clunky processes and slow paperwork for smoother digital journeys.
+
+But what is a digital journey? 
+
+Well, everything that your client needs to go through in the buying/selling process, from start to finish — with a focus on the parts that can be made faster and more efficient — regardless of physical location. Yep — it goes beyond digital signatures. Think of:
+
+Offers
+Quotes
+Real-time transaction tracking
+Loan applications and processing
+Document management and file sharing
+Scheduling and following up on appointments
+And even the property showing itself. Now digital property showings go beyond pictures and video. Online 2D showings aren’t enough anymore, and startups like Giraffe 360 and Matterport are making 3D property showings common.
+
+VR/AR (virtual/augmented reality)
+Let’s elaborate on that last point and talk about virtual and augmented reality. First, let’s clarify: AR uses a real-world setting while VR is completely virtual.
+
+In 2020, when I consulted Matterport before they went public via SPAC for $3.5 billion, I wrote for Wealth Magazine (BiggerPockets) on how AR/VR is here to stay, and how the pandemic was just a catalyst for an already gushing trend.
+
+And indeed, in 2021, Redfin revealed that in June 2020, 45% of home purchases were made through remote digital tours, and in December 2020, it jumped to a staggering 63%. 
+
+Back then, it was a necessity, as flights were not an option due to an ongoing pandemic.  But today, the world has gone back to normal — a new normal — because those times of need changed the barometer of what digital tools mean for comfort, accessibility, and necessity.
+
+Now, buyers not only know this tech exists — they expect it — as it makes buying houses in different states, countries, and even continents easier. Even if flying to a home viewing is a possibility, why do so if you can do it from your couch? Don’t just think of wealthy people buying extra homes. Think of the family relocating due to one of the parents’ job change. This family is now able to find their new home after two days of couch-sitting and iPad scrolling.
+
+And as time passes, awareness of these technologies will increase across different age groups, and as your consumer base naturally becomes older in age but younger in tech adoption, they will have become accustomed to these trends — seeing their friends (and even parents) buy a home this way. Then, as more people get used to such advancements, they will become a requirement for them.
+
+This can all sound intimidating, but it’s also a blessing. Suddenly, showings are not restricted by physical presence, you’re not limited by your zip code, and your buyers can come from everywhere.
+
+Chatbots
+Remember how 63% of people browsing the web are more likely to come back to websites with virtual chat support? Setting up such a system is crucial for a digital transformation. It’ll enable your brokerage to segment your audience based on their needs and questions, and save on labor costs — helping with basic customer support inquiries.
+
+But that’s not new — the sector has been doing that for quite some time now. In 2023, with advancements in tech, some smarter chatbots like Tidio can assist your customers with more aspects of the real estate business, like finding the right property and helping with financial transactions.
+
+However, this is a double-edged sword. If you become this brokerage that’s perceived as robotic — because of its messaging, or because getting to a human is a chore — it’ll backfire. For this to work, you need to have the right balance of human/chat interaction, create ultra-personalized chatbot responses; for the UX/UI and copy to be superb; flow well; and feel human-like.
+
+‍
+
+A final thought on digital transformation
+‍
+
+Now you know more about what digital transformations to pay attention to in 2023, focusing on digital journeys, VR/AR showings, and smart chatbots. And of course, realtors who brand themselves like to share their Blinq digital business card on LinkedIn. These digital cards let your LinkedIn followers save your contact details with a click, so you’ll be on speed dial when they need to sell their home! 
+
+Learn more about the digital business card realtors love.
+
+
+Example of a realtor business card
+Share
+Ready when you are
+Blinq is trusted by thousands of users to share their professional identity every day. Now it’s your turn.
+
+Create Your Card
+
+
+app store
+google play store
+
+Product
+Individuals
+Businesses & Teams
+NFC Business Cards
+Pricing
+Solutions
+Digital Business Cards
+Email Signature
+Resources
+Help
+Blog
+Contact
+Work at Blinq
+Privacy Policy
+Terms & Conditions
+Terms of Use
+Press Kit
+Responsible Disclosure Program
+Security
+Access
+Log In
+Sign Up Free
+© 2017-2023 Blinq Technologies Pty Ltd. All Rights Reserved.
+
+
+
+
+
+Digital Business Cards
+For Businesses & Teams
+NFC Business Cards
+Pricing
+Blog
+Log In
+Create Your Card
+Home>Blog>Realtors and Real Estate
+REALTORS AND REAL ESTATE
+7 Customer Service Skills All Amazing Realtors Possess
+Originally Published:
+January 5, 2023
+  •  
+5 min read
+Last Updated:
+Jan 5, 2023
+7 Customer Service Skills All Amazing Realtors Possess
+By  Tom Gil
+Real estate copywriter
+
+7 Customer Service Skills All Amazing Realtors Possess
+If you’re reading this, you’re probably a junior realtor. And that’s ok. The trail to a mountain’s peak starts at its bottom, and all masters started as students. So, here are the seven customer service skills amazing realtors possess.
+
+My first experience with a realtor
+First, a story from my own personal experience.
+
+When I bought my first investment property in 2017, I was 26 years of age, I purposefully chose a small, family-owned team, because it was my very first professional interaction as a buyer, and needed a guiding hand—to not just help me with the paperwork—but educate me on things I’m yet to discover. My chosen agent and his team (his wife and one assistant) didn’t believe this B-class property was a good deal, but I insisted, having noticed some serious market trends. 
+
+Long story short, I ended up buying a condominium next to UNLV (University of Las Vegas).
+
+I knew the current tenant was paying $600 a month, that they were about to leave the apartment, and if I put about $4k into fixing and furnishing it, I could rent it for $200 more. My agent didn’t believe it’ll rent for $800. Guess what? It did.
+
+For twelve months the property cash-flowed. Then, I wanted to sell. 
+
+We found a buyer from California, and everything went smoothly. I bought it for $60k, and sold it for $89k. However, after the paperwork was signed, and money was in escrow, on the very last day of the process, Murphy's law hit me with a pipe leak. And my agent? He was on vacation and uncontactable.
+
+His trusty assistant (who was genuinely superb) was also on vacation. There wasn’t anyone at the firm who could help me or reassure me and he hadn’t put a substitute agent in place. Being a newbie, I freaked out. Now that I’m a bit more experienced, and after the deal did go through, I know I overreacted, but ultimately, the agent could have provided better customer service. 
+
+Here’s why.
+
+7 Customer service skills amazing realtors have
+1. Setting up an emergency line
+Ok, it’s not a skill, but my story emphasizes this perfectly. The feeling of helplessness left a bitter taste in my mouth. It actually made me not want to work with him anymore. Everyone deserves a vacation, and deals happen year-long, but it was his responsibility to have at least one operating member on his team able to respond if/when emergencies (or urgent calls) happen. Don’t be that agent who leaves no one at the helm. Ever.
+
+2. Communication
+Clear communication is the backbone of every human interaction, especially in deal-making; and even more so when it involves an emotional purchase carrying a high-ticket price, like a house.
+
+3. Setting expectations
+Explain the process, timeline, and what’s required from you and your client for everything to go smoothly. If the commission from smaller deals like mine won’t appeal to you, refer to someone else. If you only specialize in selling homes to families, not condos for investors, say so. 
+
+4. Balancing sales and service
+Understand the difference between selling and helping. In a perfect scenario—and those happen—these two align. But sometimes, agents can cross the line, mistake the grey zone, and blur the boundaries. If it’s a win for you but not so much for the other sides (seller and/or buyer), then maybe this quick gain (think: fat check) isn’t worth tarnishing your brand over (long-term referrals and reputation). 
+
+5. Be transparent
+Even at the cost of losing a client. Be radically honest, and tell your client if you know the agent on the other side, how it affects the deal, how much fees and commission are involved, and why.
+
+6. Be empathetic
+To be empathetic, you’ll have to employ active listening and go beyond just hearing what is said. You’ll have to understand what is said, and why. Ryan Serhant once shared he was able to sell a mansion to a wealthy person just because he realized, after actively listening, that this home purchase is happening because he’s getting divorced, and as a father, he really cares about the new rooms of his two daughters. So Ryan focused his showings in this instance on homes with unique, spacious, and cozy kid rooms.
+
+7. Be knowledgeable 
+Being able to educate your clients and guide them throughout the process is key to providing best-in-class customer service. Paradoxically, this can eliminate future complaints—and complaints are what we think about when we say “customer service”. So, let’s call being knowledgeable “preventative customer service”.
+
+Bonus: Know your audience
+At the time, five years ago, I thought a realtor is a realtor, without being able to distinguish between different types of agents. I told my agent I am going to lease the property. But in hindsight, my realtor worked with home buyers, or mortgage to own, not mortgage to lease (I paid cash, but it’s the mindset and knowledge we’re talking about), and yet he onboarded me even though he didn’t specialize in what I needed.
+
+Knowing who you serve is the foundation of providing them with quality customer service.
+
+Now that you know to focus on communication, expectations, the difference between selling and helping, transparency, empathy, knowing your audience, and how important it is to set up an emergency line, you’re one step ahead of other agents!
+
+Other things you might be interested in
+A free digital business card to market yourself as a realtor
+Linkedin for Realtors: what to share [with examples]
+File sharing for realtors: 5 tools, 5 tips + 4 best practices
+‍
+
+Share
+Ready when you are
+Blinq is trusted by thousands of users to share their professional identity every day. Now it’s your turn.
+
+Create Your Card
+
+
+app store
+google play store
+
+Product
+Individuals
+Businesses & Teams
+NFC Business Cards
+Pricing
+Solutions
+Digital Business Cards
+Email Signature
+Resources
+Help
+Blog
+Contact
+Work at Blinq
+Privacy Policy
+Terms & Conditions
+Terms of Use
+Press Kit
+Responsible Disclosure Program
+Security
+Access
+Log In
+Sign Up Free
+© 2017-2023 Blinq Technologies Pty Ltd. All Rights Reserved.
+
+
+
+
+
+Digital Business Cards
+For Businesses & Teams
+NFC Business Cards
+Pricing
+Blog
+Log In
+Create Your Card
+Home>Blog>QR Code Business Cards
+QR CODE BUSINESS CARDS
+6 Things You NEED to Know About QR Code Security
+Originally Published:
+March 3, 2023
+  •  
+5 min read
+Last Updated:
+Mar 3, 2023
+6 Things You NEED to Know About QR Code Security
+By  Travis James
+Growth Operations Manager
+
+6 Things You NEED to Know About QR Code Security
+QR codes–we’ve all seen them in store windows, at check-outs, on advertisements. 
+
+‍
+
+
+Free to use image from Pexels
+Once upon a time, they were used by manufacturers to catalog inventory. Now, they’re everywhere, used by businesses, governments, marketers, and individuals alike. 
+
+‍
+
+In today’s world of encroaching technology, QR codes are a bridge between physical and digital space. A QR code acts like a middleman between a physical touchpoint and a digital world, like an auto attendant from Dialpad UK.
+
+What are QR codes and how do they work?
+QR stands for Quick Response. QR codes were developed as a successor to bar codes and as such, they can store more information and be processed faster than their predecessors. They represent the next generation of technology, in the same way that business VoIP solutions are a modern replacement for outdated landline technology.
+
+‍
+
+QR codes consist of arrangements of black and white squares that contain encoded data. A smartphone can use a specialised app or its native camera to scan a QR code, parsing the encoded data into a link.
+
+‍
+
+Since their inception, the adoption of QR codes has looked promising, but the COVID-19 pandemic really spurred the need for a contactless system that provided both utility and safety. The spread of QR codes has only grown since then, with new use cases being discovered all the time. 
+
+Why worry about QR code safety?
+With mass adoption of new technology come mass security concerns, especially when that technology has become ingrained with words like “tracing”.
+
+‍
+
+One of the major concerns with QR codes is cybersecurity, as they can potentially provide a pathway for hackers to access sensitive information.
+
+‍
+
+Many of us are concerned with how businesses use our data.  
+
+
+Image sourced from softwareadvice.co.uk
+As QR codes have gotten more popular, scammers and hackers have gained more opportunities to scam and hack. As the technology becomes more creative, more useful, and more ingrained in our world, malicious actors have upped their game on new and creative use cases of their own. 
+
+6 things you need to know about QR code security
+1. The uses for QR codes are vast
+The most important thing to know about QR codes is how far-reaching they are. You might not realise just how many uses QR codes have in our day-to-day lives.
+
+COVID-19 precautions
+Governments and businesses alike collaborated to limit the spread of COVID-19. Using massive databases managed by technology like API SAP, COVID-19 testing and contact tracing could be utilised on a massive scale. 
+
+‍
+
+Those databases needed a touchpoint, which is where QR codes really got to shine. 
+
+‍
+
+Whenever possible, people were asked to scan QR codes at restaurants, coffee shops, and healthcare establishments. That data was logged, and if an outbreak of COVID-19 happened at a location, that person could be informed and asked to self-isolate. 
+
+Business cards
+Adding QR codes to your printed business cards gives potential clients a quick and easy way to get to know you better. You can link the QR code to a landing page, social media account, video, or your email to facilitate engagement.
+
+‍
+
+You can also eliminate the need for physical business cards entirely by using digital QR code business cards. These allow potential clients to scan the QR code on your smart device instead, which cuts down on environmental waste. 
+
+Tickets
+Tickets for concerts, sporting events, and travel can use QR codes to enhance security and lower queuing times. 
+
+‍
+
+A QR code ticket can be quickly scanned and verified as legitimate, avoiding the hassle of someone having to check each and every ticket against a person’s details. This avoids human error, as well as deterring forgeries. 
+
+‍
+
+Since they can be delivered straight to your device, QR codes can also be entirely digital, cutting down on environmental waste.
+
+Booking 
+Establishments such as restaurants, hotels, and even healthcare services can use QR codes to facilitate bookings.
+
+
+Image sourced from Pexels
+‍
+
+Displaying a QR code in a window or on an advertisement offers customers a quick and easy way to make reservations. Instead of having to find a phone number, call a place, and speak to someone, customers can scan the QR code and be taken straight to that business’ booking page. 
+
+‍
+
+And like digital tickets, QR codes can also be used by businesses to verify those reservations.
+
+Scan to pay
+New technology strives to make our lives easier, and how we pay for things is a prime example of that.  
+
+‍
+
+Even before the COVID-19 pandemic, many stores used QR codes to facilitate payment. Since the pandemic, that process has only gotten more efficient and widespread. Businesses can display QR codes that take customers to secure payment pages to make their purchases–including food and drink establishments, car parks, petrol stations, toll booths, and many more. 
+
+‍
+
+Payment companies like PayPal even allow you to scan QR codes from within their app, offering instant payment. 
+
+Marketing
+Adding a QR code to your advertising campaign is a great way to get people engaged with your content. Seeing a QR code on a poster or in a digital ad encourages people to scan, and you can link them to your website, app, social media account, or video content. 
+
+2. QR codes are not intrusive
+Now that we understand how significant QR codes can be, it’s important to understand what they are not.
+
+‍
+
+In a world where data collection is so pervasive, many of us worry about our privacy. And then COVID-19 precautions only emphasised the question: is the technology we’re relying on putting us in danger?
+
+‍
+
+Good news! Scanning a QR code does not allow it to steal your data, track your movements, or gain access to your device. The only data QR codes can log themselves is the location of the scan, how many times a QR code has been scanned, and the type of device doing the scanning. 
+
+‍
+
+QR codes are one-way delivery systems that give a device a simple instruction like “go to this webpage” or “open this app”. 
+
+‍
+
+What you do with that instruction is where things can get risky.
+
+3. QR codes take you there–but the rest is on you
+QR codes themselves are a data delivery system and cannot take anything from you. A QR code can only lead you to a digital location–a website, a social media channel, an email address, an app store page.
+
+‍
+
+A QR code at a restaurant might take you to a secure payment page, but you need to input your bank details. A QR code on a poster can take you to an app store page, but you need to click “download” to allow that app access to your device. 
+
+‍
+
+It’s important to guard your safety whenever you scan a QR code. Only scan at trusted locations, only download apps you can verify as safe, and don’t input personal details if you’re wary.
+
+4. QR codes can be tampered with
+QR codes tend to exist in public places and as such, scammers can easily tamper with them.
+
+‍
+
+The QR code itself cannot be changed, but scammers can create their own QR codes with their own malicious purposes and stick them over existing ones. 
+
+‍
+
+Before you scan a QR code, take a good look at it. If it seems off in any way, don’t use it. 
+
+5. QR codes can contain malicious links
+A QR code that has been tampered with, or a QR code in a non-secure environment, can lead to malicious websites or apps. 
+
+‍
+
+For example: you just had a nice meal at your favourite restaurant. Instead of going up to the bar to pay, you choose to scan the QR code that’s printed on your table. It takes you to the business’ secure payment page, you put in your card details, and the transaction completes.
+
+‍
+
+Except some shady character has stuck their own QR code over the restaurant’s. The secure payment page you thought you were accessing is actually a scam page, and you just typed your bank details into it.
+
+‍
+
+Always check any link a QR code is trying to open. If it’s a website, check that site’s security, and never let websites download anything to your device. If it’s an app, has that app been verified by an app store? 
+
+6. Most of the scams involving QR codes use social engineering
+The most common way scammers steal is by phishing–putting social pressure on people to willingly give up their personal details.
+
+‍
+
+Phishing is usually done through spam emails, texts, or phone calls. A scammer will reach out to you and either frighten or coerce you into giving them your banking details, answers to password hints, or login credentials.
+
+ 
+
+QR code phishing (referred to as quishing) simply cuts out the middleman and takes you straight to the scam. To use the restaurant example again, a malicious QR code can take you to a fake payment page and steal your banking details because you’re already primed to give them up in that scenario. 
+
+‍
+
+We expect stores to have their own apps. If you’re in a store and a QR code claims to take you to that store’s official app, you’re expecting the app to be legitimate; but if a scammer has replaced the legitimate QR code with a malicious one, the app you download could be dangerous. 
+
+‍
+
+QR code scams are like any scam in this regard, and require you to be vigilant about the way you share your data. Never give up personal details to a source you cannot verify. 
+
+To sum up…
+QR codes have a place in our lives. They come with exciting new uses and offer utility, bolster security, streamline arduous tasks, and can even keep us safe. 
+
+‍
+
+But, as with any technology, QR codes come with risks. Making your life easier isn’t worth losing your life savings, after all. 
+
+‍
+
+Understanding how QR codes work and keeping a few safety precautions in mind will help you get the best out of QR codes whilst avoiding their pitfalls.
+
+‍
+
+Share
+
+
+
+
+Ready when you are
+Blinq is trusted by thousands of users to share their professional identity every day. Now it’s your turn.
+
+Create Your Card
+
+
+app store
+google play store
+
+Product
+Individuals
+Businesses & Teams
+NFC Business Cards
+Pricing
+Solutions
+Digital Business Cards
+Email Signature
+Resources
+Help
+Blog
+Contact
+Work at Blinq
+Privacy Policy
+Terms & Conditions
+Terms of Use
+Press Kit
+Responsible Disclosure Program
+Security
+Access
+Log In
+Sign Up Free
+© 2017-2023 Blinq Technologies Pty Ltd. All Rights Reserved.
+
+
+
+
+
+Digital Business Cards
+For Businesses & Teams
+NFC Business Cards
+Pricing
+Blog
+Log In
+Create Your Card
+Home>Blog>Announcements
+ANNOUNCEMENTS
+Fast-growing startup Blinq raises $5m to build simple, shareable identities for anyone, anywhere
+Originally Published:
+May 17, 2022
+  •  
+Last Updated:
+Nov 15, 2022
+Fast-growing startup Blinq raises $5m to build simple, shareable identities for anyone, anywhere
+By  Jarrod Webb
+CEO & Founder
+
+Fast-growing startup Blinq raises $5m to build simple, shareable identities for anyone, anywhere
+Blackbird and Square Peg co-invest as Blinq marks rapid growth in users and businesses
+
+MELBOURNE, 17 MAY 2022 — Blinq, a rapidly-growing startup based in Melbourne, has raised AUD$5 million from notable investors Blackbird and Square Peg Capital to revolutionise how professionals share their details and manage ongoing relationships.
+
+“Blinq is one of the fastest-growing platforms we’ve seen in recent years. Just as Twitter and Airbnb took off at events such as South by Southwest, it’s exciting to see Blinq do the same this year,” said Rick Baker, Partner at Blackbird. “The last time Square Peg and Blackbird co-invested in a seed-stage startup, the result was Canva. With many social networks leading to fragmentation of identity, Blinq is creating a way to help people manage, control and share their identities in one place. We see such an exciting opportunity with what Blinq is building.”
+
+Blinq lets you share a snapshot of your professional identity, make great first impressions and manage your ongoing relationships. Blinq replaces business cards and static contact apps with a live profile that can be shared with anyone via QR code, NFC card, short link, email signature or even video call background. With Blinq, you can quickly create multiple profiles to control which information you share, and with whom. Any information you share can be kept up to date so there is no need to inform your contacts when you change numbers, emails or other information.
+
+Early Uber Eats operator and software engineer Jarrod Webb developed Blinq in 2017, observing frustration with paper business cards and the lack of a truly transformative digital option for exchanging contact details. What started as a hobby grew into a substantial opportunity last year as QR code adoption unlocked a reliable way for professionals to quickly share their identity with anyone. In January 2021, Webb left Uber Eats to catch this tailwind and accelerate growth in users and businesses in the post-COVID era. 
+
+“The paper business card has been outdated for decades, but we have never had something that could truly replace it. With QR codes becoming more commonplace during the pandemic, it’s now easier than ever to quickly share your information, manage it from anywhere and keep it up to date,” Webb said. 
+
+Blinq integrates with CRM platforms and directories like Salesforce, HubSpot and Azure AD to provide companies with a single source of truth on contact information, and rich context to help keep their pipeline information up to date and ready for follow-ups.
+
+“The first interaction is the bedrock of a business relationship and with it brings future opportunities. People are using Blinq to enhance that moment of connection,” Webb said.
+
+James Tynan, Principal at Square Peg, said: "The contacts app is essentially the same as it was before the advent of the iPhone. It's time for a connected identity layer that never goes out of date, and we're excited to work with a founder like Jarrod who has the vision and ability to make that future happen."
+
+With the new funding from Blackbird and Square Peg, Blinq is expanding the product team to create new features that help people connect and build successful professional relationships.
+
+About Blinq
+
+Blinq makes it easy for anyone to share their professional identity instantly online or in person, via a digital business card, email signature or video call background. With Blinq, you can quickly create multiple profiles to control which information you share, and with whom. Any information you share can be kept up to date so there is no need to inform your contacts when you change numbers, emails or other information.
+
+Blinq is based in Australia and backed by notable investors Blackbird Ventures and Square Peg Capital.
 
 Share
 
