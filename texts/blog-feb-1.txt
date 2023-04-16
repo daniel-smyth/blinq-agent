@@ -1,0 +1,155 @@
+
+Digital Business Cards
+For Businesses & Teams
+NFC Business Cards
+Pricing
+Blog
+Log In
+Create Your Card
+Home>Blog>QR Code Business Cards
+QR CODE BUSINESS CARDS
+Is a QR Code on a Business Card a Good Idea or a Bad Idea?
+Originally Published:
+February 1, 2023
+  •  
+5 min read
+Last Updated:
+Feb 1, 2023
+Is a QR Code on a Business Card a Good Idea or a Bad Idea?
+By  Andrew Childress
+Freelance writer
+Is a QR Code on a Business Card a Good Idea or a Bad Idea?
+If you found this post, I’ll bet that you’re working on your business card. You might even be wondering: is putting a QR code on my business card a good or bad idea?
+
+Contact details like name and phone number are a must, sure. But what about more innovative features like a QR code? Is it something that’s a must-include for 2023, or has the QR code’s moment passed?
+
+Make no mistake: the pandemic sparked renewed interest in the QR code. In a contactless world, the QR code’s role as a touch-free launch point was essential. 
+
+But even in a post-pandemic world, QR codes serve as a valuable “next step” for the recipient. Let’s learn more about why you should (and shouldn’t!) include a QR code. Plus, you’ll learn how to create them and add them to a business card, all in this post.
+
+Why Your Business Card Should Include a QR Code
+I hate to be the bearer of bad news, but every business card has an expiration date on it.
+
+Think about it: as soon as your employer, email address, or phone number changes, it’s out of date. That means that you’re constantly handing out a card that will soon include inaccurate and outdated contact info.
+
+The solution? Think of a QR code as the tool that ensures your business card never expires. That’s because you can use it to send a reader to an always-up-to-date set of contact details. We call this a digital business card, and it’s the perfect launch point to include on your business card.
+
+
+The QR code serves as the link to your future-proofed digital business card, where your up-to-date contact details live. You can view Robert Smith’s card here.
+‍
+
+The idea here is simple: your physical business card is easy to pass out, but your digital business card gives you flexibility long after you exchange details. The QR code on the physical business card becomes your bridge to the digital business card.
+
+Our recommended approach is to set your QR code up to link to a digital business card. Think of this as a mini-website with all of your contact details. It’s easy to adjust the details on your digital business card with a tool like Blinq. That means that every printed business card is now essentially future-proofed.
+
+Not a programmer? Worried about building a digital business card or printing your QR code accurately? We’ve got you covered. Read on to learn more about an easy-to-use tool to create and maintain your digital business card.
+
+When You Shouldn’t Use A QR Code
+Of course, a QR code isn’t right for every business card. It’s great to adopt new technologies, but don’t let a QR code be the tail that wags the dog. 
+
+Your QR should have a specific purpose and use case in mind. And that means thinking about what your user will see when they open the address tied to the QR code. 
+
+Here are a couple of occasions where it might be best to avoid using a QR code:
+
+If you don’t plan to keep your digital business card up-to-date, then the QR code can cause more harm than good. Sending the recipient of the card to an out-of-date or defunct set of details certainly defeats the purpose.
+Finally, if your customer base is more traditional and less tech-savvy, putting a QR code on your business card may take up space that could be better saved for your branding.
+But above all: don’t avoid adding a QR code because you think it’s difficult or time-consuming. In fact, you can do this for free with no coding or design skills needed. Keep going to learn how to create a QR code of your own. Plus, you’ll learn about a type of card that sets the standard for the future of connection.
+
+The Best Way to Create a QR Code For Your Business: Blinq
+If you’ve decided to add a QR code to your business card, you might be faced with the all-important question: how?
+
+Remember that the best place to send someone who scans your QR code is to a digital business card. Essentially, this is a micro website that includes all of your up-to-date contact details. But you don’t have to be a programmer to build your digital business card.
+
+With Blinq’s digital business card builder, you can drag and drop your way to a digital business card. This gives you a QR code that you can print and share with anyone. And that QR code will take a viewer to your digital business card.
+
+
+Blinq’s digital business card builder enables easy drag-and-drop creation of your digital business card.
+‍
+
+Your contact details are totally customizable. Add any detail as a new field, including social media links, chat app info, and even payment links. Because these are clickable, the digital business card far outperforms its real-world counterpart.
+
+‍
+
+
+The digital business card builder creates a QR code that links to my always-up-to-date contact details.
+‍
+
+Best of all: it’s free to get started with Blinq. That means you can generate a connected QR code and digital business card at no cost.
+
+One other powerful feature: Blinq also has a companion app for mobile devices. Think of it as your one-stop digital Rolodex. The app collects and stores digital business cards as a one-stop shop for your network. Anyone with the app has your latest contact details at their fingertips.
+
+Create your free digital business card with a QR Code.
+
+
+NFC Business Cards: The Card of the Future
+Business cards that include QR codes are largely the norm in 2023. But remember: if you share a business card, it’s likely that you seek to stand out from the crowd.
+
+If you want even less friction - literally - then it’s time to think about NFC business cards. NFC (or near field communication) cards only require a tap to launch a link to your digital business card. Tap it on a mobile device, and you’ll instantly see a clickable link.
+
+‍
+
+
+NFC business cards help your recipient tap their way to your digital business card - no QR scanning needed.
+‍
+
+Even better news: an NFC card can include a QR code. While most devices support NFC interactivity, you can’t risk missing a connection to someone with an unsupported device. By including a QR code on your printed card, you’ll never miss an opportunity to stay in touch.
+
+NFC cards are here to stay. They give you the easiest way to connect to a digital business card. If you want to create one of your own, read on to find out how.
+
+How to Print Your QR-Enabled Business Card
+Not all business cards are built equally. And in fact, quality matters a lot when it comes to QR codes. The quality of your printed QR code impacts the scannability. Low-resolution or blurry QR codes are less likely to scan on mobile cameras.
+
+Luckily, Blinq gives you the freedom to create printed, high-quality business cards. That also includes NFC cards that include the tech you need for no-touch connection.
+
+‍
+
+
+After you create your digital business card, Blinq also supports printing a physical version of your card that includes a QR code and NFC tech.
+These printed cards are totally optimized for your QR code. They link to the same digital business card you created on the Blinq platform. Whether touchless or QR-linked, they serve as the perfect way to send a recipient your details.
+
+Guide: how to create your NFC Business Card
+
+Scan Your Way to Success With QR Codes
+Are QR codes on a business card good or bad? If I had to pick just one option, it’s clear: these are an excellent addition to any business card. They’re easy to add and a breeze to maintain, thanks to tools like Blinq.
+
+Remember: the QR code is the bridge to your digital business card. You can create both your QR code and a digital business card with the help of Blinq - all for free.
+
+‍Still unsure about adding QR Codes to your business cards? Want an in-depth briefing? Read our full guide on QR codes for business cards
+
+Share
+Ready when you are
+Blinq is trusted by thousands of users to share their professional identity every day. Now it’s your turn.
+
+Create Your Card
+
+
+app store
+google play store
+
+Product
+Individuals
+Businesses & Teams
+NFC Business Cards
+Pricing
+Solutions
+Digital Business Cards
+Email Signature
+Resources
+Help
+Blog
+Contact
+Work at Blinq
+Privacy Policy
+Terms & Conditions
+Terms of Use
+Press Kit
+Responsible Disclosure Program
+Security
+Access
+Log In
+Sign Up Free
+© 2017-2023 Blinq Technologies Pty Ltd. All Rights Reserved.
+
+
+
+

@@ -1,0 +1,165 @@
+
+Digital Business Cards
+For Businesses & Teams
+NFC Business Cards
+Pricing
+Blog
+Log In
+Create Your Card
+Subscription plans
+Choose the subscription that works for you or your team/business.
+If you have any questions, email us at support@blinq.me.
+
+Annual Save up to 25%
+Monthly
+For Individuals
+Free
+$0
+per month
+0
+0
+Get Started
+Available on iOS, Android and the web
+
+Create up to 2 different digital business cards for yourself
+
+Add as many fields as you like to your cards
+
+Share your card via QR code, text message, email or airdrop
+
+Track who receives your card as well as when and where you met them
+
+For Individuals
+Premium
+$3.99
+per month
+7-day free trial included
+‍
+Start 7 Day Free Trial
+Everything in the Free plan, plus:
+
+Create up to 5 different digital business cards for yourself
+
+Add custom color themes to your cards
+
+Remove Blinq branding from your cards when people save and export your details to their address book
+
+Add your logo inside the QR code
+
+Send your card via email or SMS via Blinq's servers to keep your email/phone number hidden
+
+For Teams
+Business
+$5.99
+per card
+per month
+30-day free trial included
+3 card minimum
+Start 30 Day Free Trial
+Everything in the Premium plan, plus:
+
+Create unlimited cards for your entire team - create manually, bulk upload or integrate into your directory system
+
+View the contact details of those who receives your team's cards and export to your CRM system
+
+Lock contact fields for employees - choose which fields they can edit and which ones they can't
+
+Onboarding help & 24/7 support
+
+For Large Teams
+Enterprise
+Contact Us
+For 500+ cards
+‍
+Contact Us
+Everything in the Business plan, plus:
+
+Enforced Single Sign On (SSO)
+
+Bulk card creation API
+
+Contact creation webhook integration
+
+Dedicated account manager and implementation assistance
+
+Advanced access control and management
+
+Recommended for 500+ cards
+‍
+Frequently asked questions
+Are Blinq cards secure?
+
+Each card is given its own unique obfuscated link which cannot be accessed unless someone knows the link, i.e. they receive the card.
+‍
+All Blinq data is protected by Google Cloud.
+
+Can I create multiple cards for a user?
+
+Yes, you can create different cards ready for different situations. For example, in an internal team meeting where social media links could be shared vs. in a conference setting where only key professional details might be shared. Often, Blinq users create a card with their phone number and another card without their phone number, so they can share the right card for the right situation!
+‍
+Users can quickly swipe to different cards and share with a recipient depending on the context of the meeting.
+
+How do I upgrade my free Blinq profile to Business?
+
+Go to the Blinq dashboard on a desktop and select Blinq Business to get set up.
+
+What is your privacy policy?
+
+You can view our policy here.
+
+We do not sell your data. We make revenue from subscriptions and sales of NFC accessory products.
+
+Can I program my non-Blinq NFC card or tag to match my Blinq digital card?
+
+Yes, you can reprogram your non-Blinq card or tag to match your Blinq card.
+
+We are going to add this function to our app in the near future but in the meantime, please follow these steps:
+
+First, download an NFC card reader app:
+iOS: NFC for iPhone
+Android: NFC Tools
+
+Then follow these steps:
+1. Open your Blinq app and select the card you want to encode to your NFC card
+2. Tap the send button in the bottom right
+3. Tap three circles icon in the top right of the page
+4. Select "copy link"open your NFC writer app
+5. Encode this url onto your NFC object
+
+We look forward to seeing more and more NFC cards and tags running Blinq software!
+
+‍Contact us to find out more and share your NFC card or tag running Blinq on social media with the #BlinqMe hashtag.
+
+Want to learn more?
+Contact Us
+
+app store
+google play store
+
+Product
+Individuals
+Businesses & Teams
+NFC Business Cards
+Pricing
+Solutions
+Digital Business Cards
+Email Signature
+Resources
+Help
+Blog
+Contact
+Work at Blinq
+Privacy Policy
+Terms & Conditions
+Terms of Use
+Press Kit
+Responsible Disclosure Program
+Security
+Access
+Log In
+Sign Up Free
+© 2017-2023 Blinq Technologies Pty Ltd. All Rights Reserved.
+
+
+
+

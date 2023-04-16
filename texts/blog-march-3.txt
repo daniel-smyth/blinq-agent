@@ -1,0 +1,249 @@
+
+Digital Business Cards
+For Businesses & Teams
+NFC Business Cards
+Pricing
+Blog
+Log In
+Create Your Card
+Home>Blog>QR Code Business Cards
+QR CODE BUSINESS CARDS
+6 Things You NEED to Know About QR Code Security
+Originally Published:
+March 3, 2023
+  •  
+5 min read
+Last Updated:
+Mar 3, 2023
+6 Things You NEED to Know About QR Code Security
+By  Travis James
+Growth Operations Manager
+
+6 Things You NEED to Know About QR Code Security
+QR codes–we’ve all seen them in store windows, at check-outs, on advertisements. 
+
+‍
+
+
+Free to use image from Pexels
+Once upon a time, they were used by manufacturers to catalog inventory. Now, they’re everywhere, used by businesses, governments, marketers, and individuals alike. 
+
+‍
+
+In today’s world of encroaching technology, QR codes are a bridge between physical and digital space. A QR code acts like a middleman between a physical touchpoint and a digital world, like an auto attendant from Dialpad UK.
+
+What are QR codes and how do they work?
+QR stands for Quick Response. QR codes were developed as a successor to bar codes and as such, they can store more information and be processed faster than their predecessors. They represent the next generation of technology, in the same way that business VoIP solutions are a modern replacement for outdated landline technology.
+
+‍
+
+QR codes consist of arrangements of black and white squares that contain encoded data. A smartphone can use a specialised app or its native camera to scan a QR code, parsing the encoded data into a link.
+
+‍
+
+Since their inception, the adoption of QR codes has looked promising, but the COVID-19 pandemic really spurred the need for a contactless system that provided both utility and safety. The spread of QR codes has only grown since then, with new use cases being discovered all the time. 
+
+Why worry about QR code safety?
+With mass adoption of new technology come mass security concerns, especially when that technology has become ingrained with words like “tracing”.
+
+‍
+
+One of the major concerns with QR codes is cybersecurity, as they can potentially provide a pathway for hackers to access sensitive information.
+
+‍
+
+Many of us are concerned with how businesses use our data.  
+
+
+Image sourced from softwareadvice.co.uk
+As QR codes have gotten more popular, scammers and hackers have gained more opportunities to scam and hack. As the technology becomes more creative, more useful, and more ingrained in our world, malicious actors have upped their game on new and creative use cases of their own. 
+
+6 things you need to know about QR code security
+1. The uses for QR codes are vast
+The most important thing to know about QR codes is how far-reaching they are. You might not realise just how many uses QR codes have in our day-to-day lives.
+
+COVID-19 precautions
+Governments and businesses alike collaborated to limit the spread of COVID-19. Using massive databases managed by technology like API SAP, COVID-19 testing and contact tracing could be utilised on a massive scale. 
+
+‍
+
+Those databases needed a touchpoint, which is where QR codes really got to shine. 
+
+‍
+
+Whenever possible, people were asked to scan QR codes at restaurants, coffee shops, and healthcare establishments. That data was logged, and if an outbreak of COVID-19 happened at a location, that person could be informed and asked to self-isolate. 
+
+Business cards
+Adding QR codes to your printed business cards gives potential clients a quick and easy way to get to know you better. You can link the QR code to a landing page, social media account, video, or your email to facilitate engagement.
+
+‍
+
+You can also eliminate the need for physical business cards entirely by using digital QR code business cards. These allow potential clients to scan the QR code on your smart device instead, which cuts down on environmental waste. 
+
+Tickets
+Tickets for concerts, sporting events, and travel can use QR codes to enhance security and lower queuing times. 
+
+‍
+
+A QR code ticket can be quickly scanned and verified as legitimate, avoiding the hassle of someone having to check each and every ticket against a person’s details. This avoids human error, as well as deterring forgeries. 
+
+‍
+
+Since they can be delivered straight to your device, QR codes can also be entirely digital, cutting down on environmental waste.
+
+Booking 
+Establishments such as restaurants, hotels, and even healthcare services can use QR codes to facilitate bookings.
+
+
+Image sourced from Pexels
+‍
+
+Displaying a QR code in a window or on an advertisement offers customers a quick and easy way to make reservations. Instead of having to find a phone number, call a place, and speak to someone, customers can scan the QR code and be taken straight to that business’ booking page. 
+
+‍
+
+And like digital tickets, QR codes can also be used by businesses to verify those reservations.
+
+Scan to pay
+New technology strives to make our lives easier, and how we pay for things is a prime example of that.  
+
+‍
+
+Even before the COVID-19 pandemic, many stores used QR codes to facilitate payment. Since the pandemic, that process has only gotten more efficient and widespread. Businesses can display QR codes that take customers to secure payment pages to make their purchases–including food and drink establishments, car parks, petrol stations, toll booths, and many more. 
+
+‍
+
+Payment companies like PayPal even allow you to scan QR codes from within their app, offering instant payment. 
+
+Marketing
+Adding a QR code to your advertising campaign is a great way to get people engaged with your content. Seeing a QR code on a poster or in a digital ad encourages people to scan, and you can link them to your website, app, social media account, or video content. 
+
+2. QR codes are not intrusive
+Now that we understand how significant QR codes can be, it’s important to understand what they are not.
+
+‍
+
+In a world where data collection is so pervasive, many of us worry about our privacy. And then COVID-19 precautions only emphasised the question: is the technology we’re relying on putting us in danger?
+
+‍
+
+Good news! Scanning a QR code does not allow it to steal your data, track your movements, or gain access to your device. The only data QR codes can log themselves is the location of the scan, how many times a QR code has been scanned, and the type of device doing the scanning. 
+
+‍
+
+QR codes are one-way delivery systems that give a device a simple instruction like “go to this webpage” or “open this app”. 
+
+‍
+
+What you do with that instruction is where things can get risky.
+
+3. QR codes take you there–but the rest is on you
+QR codes themselves are a data delivery system and cannot take anything from you. A QR code can only lead you to a digital location–a website, a social media channel, an email address, an app store page.
+
+‍
+
+A QR code at a restaurant might take you to a secure payment page, but you need to input your bank details. A QR code on a poster can take you to an app store page, but you need to click “download” to allow that app access to your device. 
+
+‍
+
+It’s important to guard your safety whenever you scan a QR code. Only scan at trusted locations, only download apps you can verify as safe, and don’t input personal details if you’re wary.
+
+4. QR codes can be tampered with
+QR codes tend to exist in public places and as such, scammers can easily tamper with them.
+
+‍
+
+The QR code itself cannot be changed, but scammers can create their own QR codes with their own malicious purposes and stick them over existing ones. 
+
+‍
+
+Before you scan a QR code, take a good look at it. If it seems off in any way, don’t use it. 
+
+5. QR codes can contain malicious links
+A QR code that has been tampered with, or a QR code in a non-secure environment, can lead to malicious websites or apps. 
+
+‍
+
+For example: you just had a nice meal at your favourite restaurant. Instead of going up to the bar to pay, you choose to scan the QR code that’s printed on your table. It takes you to the business’ secure payment page, you put in your card details, and the transaction completes.
+
+‍
+
+Except some shady character has stuck their own QR code over the restaurant’s. The secure payment page you thought you were accessing is actually a scam page, and you just typed your bank details into it.
+
+‍
+
+Always check any link a QR code is trying to open. If it’s a website, check that site’s security, and never let websites download anything to your device. If it’s an app, has that app been verified by an app store? 
+
+6. Most of the scams involving QR codes use social engineering
+The most common way scammers steal is by phishing–putting social pressure on people to willingly give up their personal details.
+
+‍
+
+Phishing is usually done through spam emails, texts, or phone calls. A scammer will reach out to you and either frighten or coerce you into giving them your banking details, answers to password hints, or login credentials.
+
+ 
+
+QR code phishing (referred to as quishing) simply cuts out the middleman and takes you straight to the scam. To use the restaurant example again, a malicious QR code can take you to a fake payment page and steal your banking details because you’re already primed to give them up in that scenario. 
+
+‍
+
+We expect stores to have their own apps. If you’re in a store and a QR code claims to take you to that store’s official app, you’re expecting the app to be legitimate; but if a scammer has replaced the legitimate QR code with a malicious one, the app you download could be dangerous. 
+
+‍
+
+QR code scams are like any scam in this regard, and require you to be vigilant about the way you share your data. Never give up personal details to a source you cannot verify. 
+
+To sum up…
+QR codes have a place in our lives. They come with exciting new uses and offer utility, bolster security, streamline arduous tasks, and can even keep us safe. 
+
+‍
+
+But, as with any technology, QR codes come with risks. Making your life easier isn’t worth losing your life savings, after all. 
+
+‍
+
+Understanding how QR codes work and keeping a few safety precautions in mind will help you get the best out of QR codes whilst avoiding their pitfalls.
+
+‍
+
+Share
+
+
+
+
+Ready when you are
+Blinq is trusted by thousands of users to share their professional identity every day. Now it’s your turn.
+
+Create Your Card
+
+
+app store
+google play store
+
+Product
+Individuals
+Businesses & Teams
+NFC Business Cards
+Pricing
+Solutions
+Digital Business Cards
+Email Signature
+Resources
+Help
+Blog
+Contact
+Work at Blinq
+Privacy Policy
+Terms & Conditions
+Terms of Use
+Press Kit
+Responsible Disclosure Program
+Security
+Access
+Log In
+Sign Up Free
+© 2017-2023 Blinq Technologies Pty Ltd. All Rights Reserved.
+
+
+
+
